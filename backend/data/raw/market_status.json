@@ -7,7 +7,7 @@
             "primary_exchanges": "NASDAQ, NYSE, AMEX, BATS",
             "local_open": "09:30",
             "local_close": "16:15",
-            "current_status": "open",
+            "current_status": "closed",
             "notes": ""
         },
         {
@@ -16,7 +16,7 @@
             "primary_exchanges": "Toronto, Toronto Ventures",
             "local_open": "09:30",
             "local_close": "16:00",
-            "current_status": "open",
+            "current_status": "closed",
             "notes": ""
         },
         {
@@ -25,7 +25,7 @@
             "primary_exchanges": "London",
             "local_open": "08:00",
             "local_close": "16:30",
-            "current_status": "closed",
+            "current_status": "open",
             "notes": ""
         },
         {
@@ -43,7 +43,7 @@
             "primary_exchanges": "Paris",
             "local_open": "09:00",
             "local_close": "17:30",
-            "current_status": "closed",
+            "current_status": "open",
             "notes": ""
         },
         {
@@ -52,7 +52,7 @@
             "primary_exchanges": "Barcelona, Madrid",
             "local_open": "09:00",
             "local_close": "17:30",
-            "current_status": "closed",
+            "current_status": "open",
             "notes": ""
         },
         {
@@ -61,7 +61,7 @@
             "primary_exchanges": "Lisbon",
             "local_open": "08:00",
             "local_close": "16:30",
-            "current_status": "closed",
+            "current_status": "open",
             "notes": ""
         },
         {
@@ -106,7 +106,7 @@
             "primary_exchanges": "Sao Paolo",
             "local_open": "10:00",
             "local_close": "17:30",
-            "current_status": "open",
+            "current_status": "closed",
             "notes": ""
         },
         {
@@ -115,7 +115,7 @@
             "primary_exchanges": "Mexico",
             "local_open": "08:30",
             "local_close": "15:00",
-            "current_status": "open",
+            "current_status": "closed",
             "notes": ""
         },
         {
@@ -124,7 +124,7 @@
             "primary_exchanges": "Johannesburg",
             "local_open": "09:00",
             "local_close": "17:00",
-            "current_status": "closed",
+            "current_status": "open",
             "notes": ""
         },
         {
