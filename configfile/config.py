@@ -6,7 +6,6 @@ try:
     load_dotenv()
 except Exception as e:
     print(f"Error loading .env file: {e}")
-# Configuration for the Visual Crossing API
 class Config:
     SEC_API_KEY = os.getenv("SEC_API_KEY")
     ALPHA_VANTAGE_API_KEY = os.getenv("ALPHA_VANTAGE_API_KEY")
