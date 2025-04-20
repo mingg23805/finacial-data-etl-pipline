@@ -1,0 +1,732 @@
+[
+  {
+    "Code": 110,
+    "Sector": "Basic Materials",
+    "Industry": "Chemicals"
+  },
+  {
+    "Code": 112,
+    "Sector": "Basic Materials",
+    "Industry": "Agricultural Inputs"
+  },
+  {
+    "Code": 113,
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Code": 130,
+    "Sector": "Basic Materials",
+    "Industry": "Steel"
+  },
+  {
+    "Code": 131,
+    "Sector": "Basic Materials",
+    "Industry": "Copper"
+  },
+  {
+    "Code": 132,
+    "Sector": "Basic Materials",
+    "Industry": "Aluminum"
+  },
+  {
+    "Code": 133,
+    "Sector": "Basic Materials",
+    "Industry": "Other Industrial Metals & Mining"
+  },
+  {
+    "Code": 134,
+    "Sector": "Basic Materials",
+    "Industry": "Gold"
+  },
+  {
+    "Code": 135,
+    "Sector": "Basic Materials",
+    "Industry": "Silver"
+  },
+  {
+    "Code": 136,
+    "Sector": "Basic Materials",
+    "Industry": "Nonmetallic Mineral Mining"
+  },
+  {
+    "Code": 137,
+    "Sector": "Basic Materials",
+    "Industry": "Other Precious Metals & Mining"
+  },
+  {
+    "Code": 138,
+    "Sector": "Basic Materials",
+    "Industry": "Coking Coal"
+  },
+  {
+    "Code": 324,
+    "Sector": "Basic Materials",
+    "Industry": "Paper & Paper Products"
+  },
+  {
+    "Code": 632,
+    "Sector": "Basic Materials",
+    "Industry": "Lumber & Wood Production"
+  },
+  {
+    "Code": 634,
+    "Sector": "Basic Materials",
+    "Industry": "Building Materials"
+  },
+  {
+    "Code": 734,
+    "Sector": "Consumer Defensive",
+    "Industry": "Grocery Stores"
+  },
+  {
+    "Code": 732,
+    "Sector": "Consumer Defensive",
+    "Industry": "Discount Stores"
+  },
+  {
+    "Code": 766,
+    "Sector": "Consumer Defensive",
+    "Industry": "Education & Training Services"
+  },
+  {
+    "Code": 757,
+    "Sector": "Consumer Defensive",
+    "Industry": "Food Distribution"
+  },
+  {
+    "Code": 323,
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products"
+  },
+  {
+    "Code": 340,
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods"
+  },
+  {
+    "Code": 341,
+    "Sector": "Consumer Defensive",
+    "Industry": "Farm Products"
+  },
+  {
+    "Code": 345,
+    "Sector": "Consumer Defensive",
+    "Industry": "Confectioners"
+  },
+  {
+    "Code": 346,
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Brewers"
+  },
+  {
+    "Code": 347,
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Wineries & Distilleries"
+  },
+  {
+    "Code": 348,
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Non-Alcoholic"
+  },
+  {
+    "Code": 350,
+    "Sector": "Consumer Defensive",
+    "Industry": "Tobacco"
+  },
+  {
+    "Code": 351,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services"
+  },
+  {
+    "Code": 352,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Internet Retail"
+  },
+  {
+    "Code": 325,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Packaging & Containers"
+  },
+  {
+    "Code": 330,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Manufacturers"
+  },
+  {
+    "Code": 332,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Recreational Vehicles"
+  },
+  {
+    "Code": 333,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Parts"
+  },
+  {
+    "Code": 311,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Furnishings Fixtures & Appliances"
+  },
+  {
+    "Code": 320,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Manufacturing"
+  },
+  {
+    "Code": 321,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Footwear & Accessories"
+  },
+  {
+    "Code": 710,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Lodging"
+  },
+  {
+    "Code": 711,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Resorts & Casinos"
+  },
+  {
+    "Code": 712,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Restaurants"
+  },
+  {
+    "Code": 714,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Gambling"
+  },
+  {
+    "Code": 715,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Leisure"
+  },
+  {
+    "Code": 762,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Personal Services"
+  },
+  {
+    "Code": 736,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Home Improvement Retail"
+  },
+  {
+    "Code": 739,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail"
+  },
+  {
+    "Code": 742,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Luxury Goods"
+  },
+  {
+    "Code": 744,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto & Truck Dealerships"
+  },
+  {
+    "Code": 628,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Textile Manufacturing"
+  },
+  {
+    "Code": 630,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Residential Construction"
+  },
+  {
+    "Code": 730,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Retail"
+  },
+  {
+    "Code": 731,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Department Stores"
+  },
+  {
+    "Code": 827,
+    "Sector": "Financial Services",
+    "Industry": "Financial Data & Stock Exchanges"
+  },
+  {
+    "Code": 928,
+    "Sector": "Financial Services",
+    "Industry": "Banks - Regional"
+  },
+  {
+    "Code": 210,
+    "Sector": "Financial Services",
+    "Industry": "Shell Companies"
+  },
+  {
+    "Code": 447,
+    "Sector": "Financial Services",
+    "Industry": "Mortgage Finance"
+  },
+  {
+    "Code": 450,
+    "Sector": "Financial Services",
+    "Industry": "Financial Conglomerates"
+  },
+  {
+    "Code": 451,
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Diversified"
+  },
+  {
+    "Code": 452,
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Reinsurance"
+  },
+  {
+    "Code": 417,
+    "Sector": "Financial Services",
+    "Industry": "Banks - Diversified"
+  },
+  {
+    "Code": 420,
+    "Sector": "Financial Services",
+    "Industry": "Capital Markets"
+  },
+  {
+    "Code": 422,
+    "Sector": "Financial Services",
+    "Industry": "Asset Management"
+  },
+  {
+    "Code": 424,
+    "Sector": "Financial Services",
+    "Industry": "Credit Services"
+  },
+  {
+    "Code": 430,
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Life"
+  },
+  {
+    "Code": 431,
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Specialty"
+  },
+  {
+    "Code": 432,
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Property & Casualty"
+  },
+  {
+    "Code": 434,
+    "Sector": "Financial Services",
+    "Industry": "Insurance Brokers"
+  },
+  {
+    "Code": 512,
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  {
+    "Code": 515,
+    "Sector": "Healthcare",
+    "Industry": "Biotechnology"
+  },
+  {
+    "Code": 520,
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies"
+  },
+  {
+    "Code": 521,
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices"
+  },
+  {
+    "Code": 522,
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans"
+  },
+  {
+    "Code": 524,
+    "Sector": "Healthcare",
+    "Industry": "Medical Care Facilities"
+  },
+  {
+    "Code": 525,
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research"
+  },
+  {
+    "Code": 529,
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General"
+  },
+  {
+    "Code": 733,
+    "Sector": "Healthcare",
+    "Industry": "Pharmaceutical Retailers"
+  },
+  {
+    "Code": 754,
+    "Sector": "Healthcare",
+    "Industry": "Medical Distribution"
+  },
+  {
+    "Code": 825,
+    "Sector": "Healthcare",
+    "Industry": "Health Information Services"
+  },
+  {
+    "Code": 764,
+    "Sector": "Industrials",
+    "Industry": "Staffing & Employment Services"
+  },
+  {
+    "Code": 765,
+    "Sector": "Industrials",
+    "Industry": "Security & Protection Services"
+  },
+  {
+    "Code": 760,
+    "Sector": "Industrials",
+    "Industry": "Specialty Business Services"
+  },
+  {
+    "Code": 761,
+    "Sector": "Industrials",
+    "Industry": "Rental & Leasing Services"
+  },
+  {
+    "Code": 769,
+    "Sector": "Industrials",
+    "Industry": "Consulting Services"
+  },
+  {
+    "Code": 770,
+    "Sector": "Industrials",
+    "Industry": "Airlines"
+  },
+  {
+    "Code": 772,
+    "Sector": "Industrials",
+    "Industry": "Airports & Air Services"
+  },
+  {
+    "Code": 773,
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics"
+  },
+  {
+    "Code": 774,
+    "Sector": "Industrials",
+    "Industry": "Trucking"
+  },
+  {
+    "Code": 775,
+    "Sector": "Industrials",
+    "Industry": "Marine Shipping"
+  },
+  {
+    "Code": 776,
+    "Sector": "Industrials",
+    "Industry": "Railroads"
+  },
+  {
+    "Code": 751,
+    "Sector": "Industrials",
+    "Industry": "Building Products & Equipment"
+  },
+  {
+    "Code": 752,
+    "Sector": "Industrials",
+    "Industry": "Industrial Distribution"
+  },
+  {
+    "Code": 635,
+    "Sector": "Industrials",
+    "Industry": "Infrastructure Operations"
+  },
+  {
+    "Code": 636,
+    "Sector": "Industrials",
+    "Industry": "Engineering & Construction"
+  },
+  {
+    "Code": 637,
+    "Sector": "Industrials",
+    "Industry": "Waste Management"
+  },
+  {
+    "Code": 638,
+    "Sector": "Industrials",
+    "Industry": "Conglomerates"
+  },
+  {
+    "Code": 836,
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipment & Parts"
+  },
+  {
+    "Code": 611,
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense"
+  },
+  {
+    "Code": 620,
+    "Sector": "Industrials",
+    "Industry": "Farm & Heavy Construction Machinery"
+  },
+  {
+    "Code": 622,
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery"
+  },
+  {
+    "Code": 623,
+    "Sector": "Industrials",
+    "Industry": "Pollution & Treatment Controls"
+  },
+  {
+    "Code": 624,
+    "Sector": "Industrials",
+    "Industry": "Tools & Accessories"
+  },
+  {
+    "Code": 626,
+    "Sector": "Industrials",
+    "Industry": "Metal Fabrication"
+  },
+  {
+    "Code": 313,
+    "Sector": "Industrials",
+    "Industry": "Business Equipment & Supplies"
+  },
+  {
+    "Code": 721,
+    "Sector": "Communication Services",
+    "Industry": "Advertising Agencies"
+  },
+  {
+    "Code": 722,
+    "Sector": "Communication Services",
+    "Industry": "Entertainment"
+  },
+  {
+    "Code": 723,
+    "Sector": "Communication Services",
+    "Industry": "Broadcasting"
+  },
+  {
+    "Code": 727,
+    "Sector": "Communication Services",
+    "Industry": "Publishing"
+  },
+  {
+    "Code": 840,
+    "Sector": "Communication Services",
+    "Industry": "Telecom Services"
+  },
+  {
+    "Code": 851,
+    "Sector": "Communication Services",
+    "Industry": "Internet Content & Information"
+  },
+  {
+    "Code": 820,
+    "Sector": "Communication Services",
+    "Industry": "Electronic Gaming & Multimedia"
+  },
+  {
+    "Code": 824,
+    "Sector": "Technology",
+    "Industry": "Information Technology Services"
+  },
+  {
+    "Code": 826,
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure"
+  },
+  {
+    "Code": 815,
+    "Sector": "Technology",
+    "Industry": "Computer Hardware"
+  },
+  {
+    "Code": 755,
+    "Sector": "Technology",
+    "Industry": "Electronics & Computer Distribution"
+  },
+  {
+    "Code": 841,
+    "Sector": "Technology",
+    "Industry": "Communication Equipment"
+  },
+  {
+    "Code": 837,
+    "Sector": "Technology",
+    "Industry": "Scientific & Technical Instruments"
+  },
+  {
+    "Code": 832,
+    "Sector": "Technology",
+    "Industry": "Solar"
+  },
+  {
+    "Code": 833,
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  {
+    "Code": 834,
+    "Sector": "Technology",
+    "Industry": "Semiconductor Equipment & Materials"
+  },
+  {
+    "Code": 835,
+    "Sector": "Technology",
+    "Industry": "Electronic Components"
+  },
+  {
+    "Code": 925,
+    "Sector": "Technology",
+    "Industry": "Software - Application"
+  },
+  {
+    "Code": 314,
+    "Sector": "Technology",
+    "Industry": "Consumer Electronics"
+  },
+  {
+    "Code": 911,
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric"
+  },
+  {
+    "Code": 912,
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Gas"
+  },
+  {
+    "Code": 913,
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified"
+  },
+  {
+    "Code": 914,
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Water"
+  },
+  {
+    "Code": 918,
+    "Sector": "Utilities",
+    "Industry": "Utilities - Independent Power Producers"
+  },
+  {
+    "Code": 919,
+    "Sector": "Utilities",
+    "Industry": "Utilities - Renewable"
+  },
+  {
+    "Code": 920,
+    "Sector": "Energy",
+    "Industry": "Thermal Coal"
+  },
+  {
+    "Code": 150,
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Drilling"
+  },
+  {
+    "Code": 151,
+    "Sector": "Energy",
+    "Industry": "Uranium"
+  },
+  {
+    "Code": 120,
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Integrated"
+  },
+  {
+    "Code": 121,
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P"
+  },
+  {
+    "Code": 122,
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Refining & Marketing"
+  },
+  {
+    "Code": 124,
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Equipment & Services"
+  },
+  {
+    "Code": 125,
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Midstream"
+  },
+  {
+    "Code": 440,
+    "Sector": "Real Estate",
+    "Industry": "REIT - Diversified"
+  },
+  {
+    "Code": 441,
+    "Sector": "Real Estate",
+    "Industry": "REIT - Office"
+  },
+  {
+    "Code": 442,
+    "Sector": "Real Estate",
+    "Industry": "REIT - Healthcare Facilities"
+  },
+  {
+    "Code": 443,
+    "Sector": "Real Estate",
+    "Industry": "REIT - Hotel & Motel"
+  },
+  {
+    "Code": 444,
+    "Sector": "Real Estate",
+    "Industry": "REIT - Industrial"
+  },
+  {
+    "Code": 445,
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential"
+  },
+  {
+    "Code": 446,
+    "Sector": "Real Estate",
+    "Industry": "REIT - Retail"
+  },
+  {
+    "Code": 471,
+    "Sector": "Real Estate",
+    "Industry": "Real Estate - Diversified"
+  },
+  {
+    "Code": 472,
+    "Sector": "Real Estate",
+    "Industry": "REIT - Mortgage"
+  },
+  {
+    "Code": 473,
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty"
+  },
+  {
+    "Code": 448,
+    "Sector": "Real Estate",
+    "Industry": "Real Estate Services"
+  },
+  {
+    "Code": 449,
+    "Sector": "Real Estate",
+    "Industry": "Real Estate - Development"
+  }
+]
