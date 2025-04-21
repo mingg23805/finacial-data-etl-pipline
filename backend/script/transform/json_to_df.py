@@ -20,10 +20,14 @@ def companies_df():
     df[['industry', 'sector', 'code']] = df[['industry', 'sector', 'code']].replace('', np.nan)
     df.loc[df['code'].isna() & df['industry'].notna()& df['sector'].notna(), 'code'] = 999
     return df
-def markert_df():
-    df = read_json_file('backend/data/raw/market_status.json')
-    df.columns = df.columns.str.strip().str.lower()
+def market_df():
+    market_df=read_json_file('backend/data/raw/market_status.json').get("markets",[])
+    market_df=pd.json_normalize(market_df)
+    market_df = market_df.rename(columns={"primary_exchanges": "primary_exchange"})
 
-    # df = df.explode("primary_exchanges")
+    market_df.columns = market_df.columns.str.strip().str.lower()
+
+    market_df["primary_exchange"] = market_df["primary_exchange"].str.split(r",\s*")
+    market_df = market_df.explode("primary_exchange").reset_index(drop=True)
     
-    return df
+    return market_df
