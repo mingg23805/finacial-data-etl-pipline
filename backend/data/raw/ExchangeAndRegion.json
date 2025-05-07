@@ -1,0 +1,3138 @@
+[
+  {
+    "ExchangeCode": "AC",
+    "ExchangeName": "Buenos Cont",
+    "RegionCode": "AR",
+    "RegionName": "Argentina",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AE",
+    "ExchangeName": "Buenos Elec",
+    "RegionCode": "AR",
+    "RegionName": "Argentina",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AF",
+    "ExchangeName": "BYMA Floor",
+    "RegionCode": "AR",
+    "RegionName": "Argentina",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AM",
+    "ExchangeName": "Mendoza  SE",
+    "RegionCode": "AR",
+    "RegionName": "Argentina",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AS",
+    "ExchangeName": "Buenos Sinac",
+    "RegionCode": "AR",
+    "RegionName": "Argentina",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AH",
+    "ExchangeName": "Cboe Austral",
+    "RegionCode": "AU",
+    "RegionName": "Australia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AN",
+    "ExchangeName": "ASX",
+    "RegionCode": "AU",
+    "RegionName": "Australia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AO",
+    "ExchangeName": "NSX",
+    "RegionCode": "AU",
+    "RegionName": "Australia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AQ",
+    "ExchangeName": "ASXPureMatch",
+    "RegionCode": "AU",
+    "RegionName": "Australia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AT",
+    "ExchangeName": "ASE",
+    "RegionCode": "AU",
+    "RegionName": "Australia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PF",
+    "ExchangeName": "Sydney Stock",
+    "RegionCode": "AU",
+    "RegionName": "Australia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SI",
+    "ExchangeName": "SIM VSE",
+    "RegionCode": "AU",
+    "RegionName": "Australia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BE",
+    "ExchangeName": "Bovespa Elec",
+    "RegionCode": "BZ",
+    "RegionName": "B3 Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BL",
+    "ExchangeName": "Bovespa Flr",
+    "RegionCode": "BZ",
+    "RegionName": "B3 Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BN",
+    "ExchangeName": "B3 Night",
+    "RegionCode": "BZ",
+    "RegionName": "B3 Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BO",
+    "ExchangeName": "B3 Soma",
+    "RegionCode": "BZ",
+    "RegionName": "B3 Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BR",
+    "ExchangeName": "Rio De Janer",
+    "RegionCode": "BZ",
+    "RegionName": "B3 Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BS",
+    "ExchangeName": "B3 Day",
+    "RegionCode": "BZ",
+    "RegionName": "B3 Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BV",
+    "ExchangeName": "Bovespa Out",
+    "RegionCode": "BZ",
+    "RegionName": "B3 Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CL",
+    "ExchangeName": "Medellin",
+    "RegionCode": "CB",
+    "RegionName": "Colombia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CO",
+    "ExchangeName": "Occidente",
+    "RegionCode": "CB",
+    "RegionName": "Colombia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CX",
+    "ExchangeName": "Bolsa Colomb",
+    "RegionCode": "CB",
+    "RegionName": "Colombia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CG",
+    "ExchangeName": "Shanghai",
+    "RegionCode": "CH",
+    "RegionName": "China",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CS",
+    "ExchangeName": "Shenzhen",
+    "RegionCode": "CH",
+    "RegionName": "China",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JC",
+    "ExchangeName": "BeijingSE",
+    "RegionCode": "CH",
+    "RegionName": "China",
+    "": ""
+  },
+  {
+    "ExchangeCode": "QN",
+    "ExchangeName": "NEEQ",
+    "RegionCode": "CH",
+    "RegionName": "China",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CC",
+    "ExchangeName": "Sant. Comerc",
+    "RegionCode": "CI",
+    "RegionName": "Chile",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CE",
+    "ExchangeName": "Sant. Elec",
+    "RegionCode": "CI",
+    "RegionName": "Chile",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CA",
+    "ExchangeName": "Alberta",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CF",
+    "ExchangeName": "Canadian Sec",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CJ",
+    "ExchangeName": "Pure Trading",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CM",
+    "ExchangeName": "Montreal",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CQ",
+    "ExchangeName": "Dealing Net",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CT",
+    "ExchangeName": "Toronto",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CV",
+    "ExchangeName": "Toronto Ventures",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CW",
+    "ExchangeName": "Winnipeg",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DG",
+    "ExchangeName": "Lnyx ATS",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DJ",
+    "ExchangeName": "NASDAQ CXD T",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DK",
+    "ExchangeName": "NASDAQ CXD V",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DL",
+    "ExchangeName": "NSDQ CX CSE",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DM",
+    "ExchangeName": "NSDQ CX2 CSE",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DN",
+    "ExchangeName": "NSDQ CXD CSE",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DS",
+    "ExchangeName": "CX2 Cad Vntr",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DT",
+    "ExchangeName": "CX2 Cd Trnto",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DV",
+    "ExchangeName": "ChiX Venture",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "QF",
+    "ExchangeName": "NEO-L Lit",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "QG",
+    "ExchangeName": "NEO-D Dark",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "QH",
+    "ExchangeName": "NEO-N Neo",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TA",
+    "ExchangeName": "AlphaToronto",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TG",
+    "ExchangeName": "Omega",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TJ",
+    "ExchangeName": "TMX Select",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TK",
+    "ExchangeName": "Liquidnet",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TN",
+    "ExchangeName": "AlphaVenture",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TO",
+    "ExchangeName": "TriAct CSE",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TR",
+    "ExchangeName": "TriAct Trnto",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TV",
+    "ExchangeName": "TriAct Vntre",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TW",
+    "ExchangeName": "Instinet Can",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TX",
+    "ExchangeName": "ChiX Toronto",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TY",
+    "ExchangeName": "Sigma X ATS",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "HX",
+    "ExchangeName": "Alpha-X",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "HD",
+    "ExchangeName": "Alpha Dark",
+    "RegionCode": "CN",
+    "RegionName": "Canada",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CD",
+    "ExchangeName": "Prague-SPAD",
+    "RegionCode": "CP",
+    "RegionName": "Czech Republic",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CK",
+    "ExchangeName": "Prague SE",
+    "RegionCode": "CP",
+    "RegionName": "Czech Republic",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KL",
+    "ExchangeName": "Prague-Block",
+    "RegionCode": "CP",
+    "RegionName": "Czech Republic",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RC",
+    "ExchangeName": "Czech  OTC",
+    "RegionCode": "CP",
+    "RegionName": "Czech Republic",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VA",
+    "ExchangeName": "Varazdin",
+    "RegionCode": "CZ",
+    "RegionName": "Croatia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ZA",
+    "ExchangeName": "Zagreb",
+    "RegionCode": "CZ",
+    "RegionName": "Croatia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EG",
+    "ExchangeName": "Guayaquil",
+    "RegionCode": "ED",
+    "RegionName": "Ecuador",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EQ",
+    "ExchangeName": "Quito",
+    "RegionCode": "ED",
+    "RegionName": "Ecuador",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EA",
+    "ExchangeName": "Alexandria",
+    "RegionCode": "EY",
+    "RegionName": "Egypt(EGX)",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EC",
+    "ExchangeName": "EGX",
+    "RegionCode": "EY",
+    "RegionName": "Egypt(EGX)",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EI",
+    "ExchangeName": "NILEX",
+    "RegionCode": "EY",
+    "RegionName": "Egypt(EGX)",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GB",
+    "ExchangeName": "Berlin",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GC",
+    "ExchangeName": "Bremen",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GD",
+    "ExchangeName": "Dusseldorf",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GE",
+    "ExchangeName": "Xtra EU Strs",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GF",
+    "ExchangeName": "Frankfurt",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GH",
+    "ExchangeName": "Hamburg",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GI",
+    "ExchangeName": "Hannover",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GM",
+    "ExchangeName": "Munich",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GQ",
+    "ExchangeName": "Xetra Stars",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GS",
+    "ExchangeName": "Stuttgart",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GT",
+    "ExchangeName": "Xetra ETF",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GW",
+    "ExchangeName": "Stutgt Wrnts",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GY",
+    "ExchangeName": "Xetra",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LA",
+    "ExchangeName": "LSXExchange",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LU",
+    "ExchangeName": "LSX LSSI",
+    "RegionCode": "GR",
+    "RegionName": "Germany",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IB",
+    "ExchangeName": "BSE India",
+    "RegionCode": "IN",
+    "RegionName": "India",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IG",
+    "ExchangeName": "MSEI",
+    "RegionCode": "IN",
+    "RegionName": "India",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IH",
+    "ExchangeName": "Delhi Stk Ex",
+    "RegionCode": "IN",
+    "RegionName": "India",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IS",
+    "ExchangeName": "Natl India",
+    "RegionCode": "IN",
+    "RegionName": "India",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JB",
+    "ExchangeName": "Brokers Brkr",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JD",
+    "ExchangeName": "Kabu.com",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JE",
+    "ExchangeName": "Japannext",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JF",
+    "ExchangeName": "Fukuoka",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JG",
+    "ExchangeName": "Tokyo AIM",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JI",
+    "ExchangeName": "Cboe Japan",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JJ",
+    "ExchangeName": "JSDA OffExch",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JK",
+    "ExchangeName": "Kyoto",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JM",
+    "ExchangeName": "Optimark Jpn",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JN",
+    "ExchangeName": "Nagoya",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JO",
+    "ExchangeName": "Osaka",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JQ",
+    "ExchangeName": "JASDAQ",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JS",
+    "ExchangeName": "Sapporo",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JT",
+    "ExchangeName": "Tokyo",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JU",
+    "ExchangeName": "JapannextXMk",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JV",
+    "ExchangeName": "ODX",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JW",
+    "ExchangeName": "JapannextUMk",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JX",
+    "ExchangeName": "Hercules",
+    "RegionCode": "JP",
+    "RegionName": "Japan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KE",
+    "ExchangeName": "Konex",
+    "RegionCode": "KS",
+    "RegionName": "South Korea",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KP",
+    "ExchangeName": "Korea SE",
+    "RegionCode": "KS",
+    "RegionName": "South Korea",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KQ",
+    "ExchangeName": "KOSDAQ",
+    "RegionCode": "KS",
+    "RegionName": "South Korea",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LF",
+    "ExchangeName": "Riga Fixed",
+    "RegionCode": "LR",
+    "RegionName": "Latvia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LG",
+    "ExchangeName": "Riga",
+    "RegionCode": "LR",
+    "RegionName": "Latvia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LV",
+    "ExchangeName": "Riga Variab",
+    "RegionCode": "LR",
+    "RegionName": "Latvia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MF",
+    "ExchangeName": "BMV Mexico",
+    "RegionCode": "MM",
+    "RegionName": "Mexico",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MU",
+    "ExchangeName": "BIVA",
+    "RegionCode": "MM",
+    "RegionName": "Mexico",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PK",
+    "ExchangeName": "Pakistan",
+    "RegionCode": "PA",
+    "RegionName": "Pakistan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RN",
+    "ExchangeName": "MICEX NDM",
+    "RegionCode": "RM",
+    "RegionName": "MICEX",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RP",
+    "ExchangeName": "MICEX Repo",
+    "RegionCode": "RM",
+    "RegionName": "MICEX",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RX",
+    "ExchangeName": "MICEX Main",
+    "RegionCode": "RM",
+    "RegionName": "MICEX",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RE",
+    "ExchangeName": "Bucharest",
+    "RegionCode": "RO",
+    "RegionName": "Romania",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RQ",
+    "ExchangeName": "RASDAQ",
+    "RegionCode": "RO",
+    "RegionName": "Romania",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RZ",
+    "ExchangeName": "SIBEX",
+    "RegionCode": "RO",
+    "RegionName": "Romania",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RG",
+    "ExchangeName": "SPB",
+    "RegionCode": "RU",
+    "RegionName": "Russia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RR",
+    "ExchangeName": "MOEX",
+    "RegionCode": "RU",
+    "RegionName": "Russia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RS",
+    "ExchangeName": "RTS Standard",
+    "RegionCode": "RU",
+    "RegionName": "Russia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RT",
+    "ExchangeName": "NP RTS",
+    "RegionCode": "RU",
+    "RegionName": "Russia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SA",
+    "ExchangeName": "Valencia",
+    "RegionCode": "SM",
+    "RegionName": "Spain",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SB",
+    "ExchangeName": "Barcelona",
+    "RegionCode": "SM",
+    "RegionName": "Spain",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SN",
+    "ExchangeName": "BME Outcry",
+    "RegionCode": "SM",
+    "RegionName": "Spain",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SO",
+    "ExchangeName": "Bilbao",
+    "RegionCode": "SM",
+    "RegionName": "Spain",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SQ",
+    "ExchangeName": "Soc.Bol SIBE",
+    "RegionCode": "SM",
+    "RegionName": "Spain",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ST",
+    "ExchangeName": "ContinuousNM",
+    "RegionCode": "SM",
+    "RegionName": "Spain",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BW",
+    "ExchangeName": "BX Worldcaps",
+    "RegionCode": "SW",
+    "RegionName": "Switzerland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SC",
+    "ExchangeName": "Swiss Contrb",
+    "RegionCode": "SW",
+    "RegionName": "Switzerland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SE",
+    "ExchangeName": "SIX Swiss Ex",
+    "RegionCode": "SW",
+    "RegionName": "Switzerland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SR",
+    "ExchangeName": "Berne",
+    "RegionCode": "SW",
+    "RegionName": "Switzerland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SX",
+    "ExchangeName": "SIX Swiss-SP",
+    "RegionCode": "SW",
+    "RegionName": "Switzerland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XK",
+    "ExchangeName": "OTC-X BEKB",
+    "RegionCode": "SW",
+    "RegionName": "Switzerland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DB",
+    "ExchangeName": "DFM",
+    "RegionCode": "UH",
+    "RegionName": "UAE",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DH",
+    "ExchangeName": "Abu Dhabi",
+    "RegionCode": "UH",
+    "RegionName": "UAE",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UA",
+    "ExchangeName": "AMEX",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PQ",
+    "ExchangeName": "OTC Markets",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UB",
+    "ExchangeName": "NSDQ BX",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UC",
+    "ExchangeName": "NYSE",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UD",
+    "ExchangeName": "FINRA ADF",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UE",
+    "ExchangeName": "NASD Internl",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UF",
+    "ExchangeName": "Cboe BZX",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UI",
+    "ExchangeName": "Island",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UJ",
+    "ExchangeName": "Trad Rpt Fac",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UL",
+    "ExchangeName": "ISE",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UN",
+    "ExchangeName": "New York",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UO",
+    "ExchangeName": "CBSX",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UQ",
+    "ExchangeName": "NASDAQ",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UV",
+    "ExchangeName": "OTC US",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UZ",
+    "ExchangeName": "BATS",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VF",
+    "ExchangeName": "Investors Ex",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VG",
+    "ExchangeName": "Members Exch",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VJ",
+    "ExchangeName": "EDGA",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VK",
+    "ExchangeName": "EDGX",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VL",
+    "ExchangeName": "Long Term SE",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VP",
+    "ExchangeName": "MIAX Pearl",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VY",
+    "ExchangeName": "Cboe BYX",
+    "RegionCode": "US",
+    "RegionName": "United States",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VE",
+    "ExchangeName": "Electronica",
+    "RegionCode": "VC",
+    "RegionName": "Venezuela",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VS",
+    "ExchangeName": "Caracas",
+    "RegionCode": "VC",
+    "RegionName": "Venezuela",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VH",
+    "ExchangeName": "Hanoi",
+    "RegionCode": "VN",
+    "RegionName": "Vietnam",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VM",
+    "ExchangeName": "Ho Chi Minh",
+    "RegionCode": "VN",
+    "RegionName": "Vietnam",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VU",
+    "ExchangeName": "Hanoi UPCoM",
+    "RegionCode": "VN",
+    "RegionName": "Vietnam",
+    "": ""
+  },
+  {
+    "ExchangeCode": "B1",
+    "ExchangeName": "BMTF",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "E1",
+    "ExchangeName": "EURO OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "X1",
+    "ExchangeName": "TradeEchoAPA",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "X2",
+    "ExchangeName": "Cboe APA EU",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XA",
+    "ExchangeName": "CEESEG OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XB",
+    "ExchangeName": "Boat",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XC",
+    "ExchangeName": "Chi-X OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XD",
+    "ExchangeName": "Deutsche OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XE",
+    "ExchangeName": "Euronext OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XF",
+    "ExchangeName": "Dblin SE OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XG",
+    "ExchangeName": "NGM OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XH",
+    "ExchangeName": "Budapest OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XI",
+    "ExchangeName": "BorsaItalOTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XJ",
+    "ExchangeName": "Ljub SE OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XL",
+    "ExchangeName": "Lndon SE OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XM",
+    "ExchangeName": "Euronext Blk",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XN",
+    "ExchangeName": "Oslo OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XO",
+    "ExchangeName": "OMX OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XP",
+    "ExchangeName": "NEX Exch OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XQ",
+    "ExchangeName": "BMF APA",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XR",
+    "ExchangeName": "Reuters OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XS",
+    "ExchangeName": "Stuttgrt OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XT",
+    "ExchangeName": "Athens OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XU",
+    "ExchangeName": "Bulgaria OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XV",
+    "ExchangeName": "CboeBXTR APA",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XW",
+    "ExchangeName": "SIXOff-Exch",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XX",
+    "ExchangeName": "TRAXAPADATA",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XY",
+    "ExchangeName": "Burgundy OTC",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "XZ",
+    "ExchangeName": "TradewebAPA",
+    "RegionCode": "EO",
+    "RegionName": "OTC Composite",
+    "": ""
+  },
+  {
+    "ExchangeCode": "Z1",
+    "ExchangeName": "AIAF",
+    "RegionCode": "Z1",
+    "RegionName": "AIAF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AL",
+    "ExchangeName": "Albania",
+    "RegionCode": "AL",
+    "RegionName": "Albania",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AG",
+    "ExchangeName": "AlgeriaStExc",
+    "RegionCode": "AG",
+    "RegionName": "Algeria",
+    "": ""
+  },
+  {
+    "ExchangeCode": "S2",
+    "ExchangeName": "AMP(UBS MTF)",
+    "RegionCode": "S2",
+    "RegionName": "AMP(UBS MTF)",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AD",
+    "ExchangeName": "Andorra",
+    "RegionCode": "AD",
+    "RegionName": "Andorra",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AX",
+    "ExchangeName": "AngolanStExc",
+    "RegionCode": "AX",
+    "RegionName": "Angola",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AI",
+    "ExchangeName": "Anguilla",
+    "RegionCode": "AI",
+    "RegionName": "Anguilla",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AW",
+    "ExchangeName": "ARTEX MTF",
+    "RegionCode": "FA",
+    "RegionName": "FineArt",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PZ",
+    "ExchangeName": "Aquis AQSE",
+    "RegionCode": "PZ",
+    "RegionName": "AQSE",
+    "": ""
+  },
+  {
+    "ExchangeCode": "QE",
+    "ExchangeName": "Aquis - EU",
+    "RegionCode": "QE",
+    "RegionName": "Aquis Exchange",
+    "": ""
+  },
+  {
+    "ExchangeCode": "QX",
+    "ExchangeName": "Aquis Exchg",
+    "RegionCode": "QX",
+    "RegionName": "Aquis Exchange",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AY",
+    "ExchangeName": "NSDQ OMX Arm",
+    "RegionCode": "AY",
+    "RegionName": "Armenia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "A0",
+    "ExchangeName": "AsstMtch MTF",
+    "RegionCode": "A0",
+    "RegionName": "AssetMatch MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AV",
+    "ExchangeName": "Vienna",
+    "RegionCode": "AV",
+    "RegionName": "Austria",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AZ",
+    "ExchangeName": "Baku SE",
+    "RegionCode": "AZ",
+    "RegionName": "Azerbaijan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BM",
+    "ExchangeName": "Bahamas",
+    "RegionCode": "BM",
+    "RegionName": "Bahamas",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BI",
+    "ExchangeName": "Bahrain Brse",
+    "RegionCode": "BI",
+    "RegionName": "Bahrain",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BD",
+    "ExchangeName": "Dhaka",
+    "RegionCode": "BD",
+    "RegionName": "Bangladesh",
+    "": ""
+  },
+  {
+    "ExchangeCode": "C3",
+    "ExchangeName": "CSE",
+    "RegionCode": "BD",
+    "RegionName": "Bangladesh",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BA",
+    "ExchangeName": "Bridgetown",
+    "RegionCode": "BA",
+    "RegionName": "Barbados",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EB",
+    "ExchangeName": "Cboe BXE",
+    "RegionCode": "EB",
+    "RegionName": "BATS Europe",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RB",
+    "ExchangeName": "Belarus",
+    "RegionCode": "RB",
+    "RegionName": "Belarus",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BB",
+    "ExchangeName": "EN Brussels",
+    "RegionCode": "BB",
+    "RegionName": "Belgium",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NB",
+    "ExchangeName": "Brussels NM",
+    "RegionCode": "BB",
+    "RegionName": "Belgium",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ZB",
+    "ExchangeName": "Belize",
+    "RegionCode": "ZB",
+    "RegionName": "Belize",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BH",
+    "ExchangeName": "Bermuda SE",
+    "RegionCode": "BH",
+    "RegionName": "Bermuda",
+    "": ""
+  },
+  {
+    "ExchangeCode": "B3",
+    "ExchangeName": "Blockmatch",
+    "RegionCode": "B3",
+    "RegionName": "Blockmatch",
+    "": ""
+  },
+  {
+    "ExchangeCode": "B2",
+    "ExchangeName": "BMTF - ETF",
+    "RegionCode": "B2",
+    "RegionName": "Bloomberg MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "B4",
+    "ExchangeName": "BMTF EU",
+    "RegionCode": "B4",
+    "RegionName": "Bloomberg MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VB",
+    "ExchangeName": "Bolivia",
+    "RegionCode": "VB",
+    "RegionName": "Bolivia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BP",
+    "ExchangeName": "Bosnia",
+    "RegionCode": "BP",
+    "RegionName": "Bosnia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BG",
+    "ExchangeName": "Gaborone",
+    "RegionCode": "BG",
+    "RegionName": "Botswana",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VI",
+    "ExchangeName": "Br Virgin Is",
+    "RegionCode": "VI",
+    "RegionName": "Brit Virgin Is",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BX",
+    "ExchangeName": "Brunei",
+    "RegionCode": "BX",
+    "RegionName": "Brunei",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BC",
+    "ExchangeName": "BRVM Region",
+    "RegionCode": "BC",
+    "RegionName": "BRVM Regional",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BU",
+    "ExchangeName": "Bulgaria SE",
+    "RegionCode": "BU",
+    "RegionName": "Bulgaria",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BY",
+    "ExchangeName": "Burgundy",
+    "RegionCode": "BY",
+    "RegionName": "Burgundy",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KH",
+    "ExchangeName": "Cambodia",
+    "RegionCode": "KH",
+    "RegionName": "Cambodia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DE",
+    "ExchangeName": "DoulaStkExch",
+    "RegionCode": "DE",
+    "RegionName": "Cameroon",
+    "": ""
+  },
+  {
+    "ExchangeCode": "VR",
+    "ExchangeName": "Cape VerdeEx",
+    "RegionCode": "VR",
+    "RegionName": "Cape Verde",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KY",
+    "ExchangeName": "CSX",
+    "RegionCode": "KY",
+    "RegionName": "Cayman Islands",
+    "": ""
+  },
+  {
+    "ExchangeCode": "E2",
+    "ExchangeName": "CBOE BXE EU",
+    "RegionCode": "E2",
+    "RegionName": "CBOE BXE EU",
+    "": ""
+  },
+  {
+    "ExchangeCode": "I2",
+    "ExchangeName": "Cboe DXE",
+    "RegionCode": "I2",
+    "RegionName": "Cboe DXE",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ZC",
+    "ExchangeName": "Centrl Af SE",
+    "RegionCode": "ZC",
+    "RegionName": "Central Afr Rp",
+    "": ""
+  },
+  {
+    "ExchangeCode": "HE",
+    "ExchangeName": "Chi-East",
+    "RegionCode": "HE",
+    "RegionName": "Chi-East",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IX",
+    "ExchangeName": "Cboe CXE",
+    "RegionCode": "IX",
+    "RegionName": "Chi-X Europe",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CU",
+    "ExchangeName": "Cook Islands",
+    "RegionCode": "CU",
+    "RegionName": "Cook Islands",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CR",
+    "ExchangeName": "Costa Rica",
+    "RegionCode": "CR",
+    "RegionName": "Costa Rica",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CY",
+    "ExchangeName": "Nicosia",
+    "RegionCode": "CY",
+    "RegionName": "Cyprus",
+    "": ""
+  },
+  {
+    "ExchangeCode": "YC",
+    "ExchangeName": "Cyprus ECM",
+    "RegionCode": "CY",
+    "RegionName": "Cyprus",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SY",
+    "ExchangeName": "Damascus SE",
+    "RegionCode": "SY",
+    "RegionName": "Damascus SecEx",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DC",
+    "ExchangeName": "Copenhagen",
+    "RegionCode": "DC",
+    "RegionName": "Denmark",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DD",
+    "ExchangeName": "Dansk OTC",
+    "RegionCode": "DC",
+    "RegionName": "Denmark",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DF",
+    "ExchangeName": "FN Denmark",
+    "RegionCode": "DC",
+    "RegionName": "Denmark",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EK",
+    "ExchangeName": "Estn Crbn SE",
+    "RegionCode": "EK",
+    "RegionName": "Eastern Carrib",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DX",
+    "ExchangeName": "Turquoise De",
+    "RegionCode": "DX",
+    "RegionName": "EDX London",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EL",
+    "ExchangeName": "El Salvador",
+    "RegionCode": "EL",
+    "RegionName": "El Salvador",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BQ",
+    "ExchangeName": "Equiduct",
+    "RegionCode": "BQ",
+    "RegionName": "Equiduct",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ET",
+    "ExchangeName": "Tallinn",
+    "RegionCode": "ET",
+    "RegionName": "Estonia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SD",
+    "ExchangeName": "EswatiniSE",
+    "RegionCode": "SD",
+    "RegionName": "Eswatini",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EM",
+    "ExchangeName": "Euronext NM",
+    "RegionCode": "EN",
+    "RegionName": "Euronext",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EN",
+    "ExchangeName": "Euronext",
+    "RegionCode": "EN",
+    "RegionName": "Euronext",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EE",
+    "ExchangeName": "Euronext ETF",
+    "RegionCode": "EE",
+    "RegionName": "Euronext ETF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EF",
+    "ExchangeName": "Euronext ETF",
+    "RegionCode": "EF",
+    "RegionName": "Euronext ETF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EU",
+    "ExchangeName": "Euro Comp",
+    "RegionCode": "EU",
+    "RegionName": "European Comp",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EZ",
+    "ExchangeName": "Eurolit",
+    "RegionCode": "EZ",
+    "RegionName": "European Lit C",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EP",
+    "ExchangeName": "Eurolit Pri",
+    "RegionCode": "EP",
+    "RegionName": "European Lit P",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TE",
+    "ExchangeName": "EuroTLX",
+    "RegionCode": "TE",
+    "RegionName": "EuroTLX",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BT",
+    "ExchangeName": "Sarajevo",
+    "RegionCode": "BT",
+    "RegionName": "Fed of Bos/Her",
+    "": ""
+  },
+  {
+    "ExchangeCode": "FS",
+    "ExchangeName": "SPSE",
+    "RegionCode": "FS",
+    "RegionName": "Fiji",
+    "": ""
+  },
+  {
+    "ExchangeCode": "FF",
+    "ExchangeName": "FN Finland",
+    "RegionCode": "FH",
+    "RegionName": "Finland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "FH",
+    "ExchangeName": "Helsinki",
+    "RegionCode": "FH",
+    "RegionName": "Finland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "FP",
+    "ExchangeName": "EN Paris",
+    "RegionCode": "FP",
+    "RegionName": "France",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NP",
+    "ExchangeName": "Paris NM",
+    "RegionCode": "FP",
+    "RegionName": "France",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ZG",
+    "ExchangeName": "Gabon",
+    "RegionCode": "ZG",
+    "RegionName": "Gabon",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GX",
+    "ExchangeName": "Gambia StkEx",
+    "RegionCode": "GX",
+    "RegionName": "Gambia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GG",
+    "ExchangeName": "JSCGeorgiaSE",
+    "RegionCode": "GG",
+    "RegionName": "Georgia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NF",
+    "ExchangeName": "Frankfurt NM",
+    "RegionCode": "NM",
+    "RegionName": "Germ NM",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NM",
+    "ExchangeName": "German NM",
+    "RegionCode": "NM",
+    "RegionName": "Germ NM",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NY",
+    "ExchangeName": "XETRA NM",
+    "RegionCode": "NM",
+    "RegionName": "Germ NM",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GZ",
+    "ExchangeName": "Gettex",
+    "RegionCode": "GZ",
+    "RegionName": "Gettex",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GN",
+    "ExchangeName": "Accra",
+    "RegionCode": "GN",
+    "RegionName": "Ghana",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TL",
+    "ExchangeName": "Gibraltar",
+    "RegionCode": "TL",
+    "RegionName": "Gibraltar",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AA",
+    "ExchangeName": "Athens Alt",
+    "RegionCode": "GA",
+    "RegionName": "Greece",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AP",
+    "ExchangeName": "Athens Repo",
+    "RegionCode": "GA",
+    "RegionName": "Greece",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GA",
+    "ExchangeName": "Athens",
+    "RegionCode": "GA",
+    "RegionName": "Greece",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GL",
+    "ExchangeName": "Guatemala",
+    "RegionCode": "GL",
+    "RegionName": "Guatemala",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GU",
+    "ExchangeName": "Guernsey",
+    "RegionCode": "GU",
+    "RegionName": "Guernsey",
+    "": ""
+  },
+  {
+    "ExchangeCode": "G4",
+    "ExchangeName": "GXG Markets",
+    "RegionCode": "G4",
+    "RegionName": "GXG Markets",
+    "": ""
+  },
+  {
+    "ExchangeCode": "HM",
+    "ExchangeName": "HI-MTF",
+    "RegionCode": "HM",
+    "RegionName": "HI-MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "HO",
+    "ExchangeName": "Honduras",
+    "RegionCode": "HO",
+    "RegionName": "Honduras",
+    "": ""
+  },
+  {
+    "ExchangeCode": "HK",
+    "ExchangeName": "Hong Kong",
+    "RegionCode": "HK",
+    "RegionName": "Hong Kong",
+    "": ""
+  },
+  {
+    "ExchangeCode": "HB",
+    "ExchangeName": "Budapest",
+    "RegionCode": "HB",
+    "RegionName": "Hungary",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IR",
+    "ExchangeName": "Reykjavik",
+    "RegionCode": "IR",
+    "RegionName": "Iceland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RF",
+    "ExchangeName": "FN Iceland",
+    "RegionCode": "IR",
+    "RegionName": "Iceland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IJ",
+    "ExchangeName": "Indonesia",
+    "RegionCode": "IJ",
+    "RegionName": "Indonesia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IK",
+    "ExchangeName": "Indones Comp",
+    "RegionCode": "IJ",
+    "RegionName": "Indonesia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IY",
+    "ExchangeName": "Surabaya",
+    "RegionCode": "IJ",
+    "RegionName": "Indonesia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IE",
+    "ExchangeName": "Tehran",
+    "RegionCode": "IE",
+    "RegionName": "Iran",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IQ",
+    "ExchangeName": "Iraq SE",
+    "RegionCode": "IQ",
+    "RegionName": "Iraq Stock Ex",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ID",
+    "ExchangeName": "EN Dublin",
+    "RegionCode": "ID",
+    "RegionName": "Ireland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IO",
+    "ExchangeName": "Isle of Man",
+    "RegionCode": "IO",
+    "RegionName": "Isle of Man",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IT",
+    "ExchangeName": "Tel Aviv",
+    "RegionCode": "IT",
+    "RegionName": "Israel",
+    "": ""
+  },
+  {
+    "ExchangeCode": "I9",
+    "ExchangeName": "LSE Milan",
+    "RegionCode": "IM",
+    "RegionName": "Italy",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IC",
+    "ExchangeName": "Mil Comp Day",
+    "RegionCode": "IM",
+    "RegionName": "Italy",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IF",
+    "ExchangeName": "Mil Aftr Hrs",
+    "RegionCode": "IM",
+    "RegionName": "Italy",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IM",
+    "ExchangeName": "BrsaItaliana",
+    "RegionCode": "IM",
+    "RegionName": "Italy",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NI",
+    "ExchangeName": "Milan NM",
+    "RegionCode": "IM",
+    "RegionName": "Italy",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PO",
+    "ExchangeName": "ITG Posit",
+    "RegionCode": "PO",
+    "RegionName": "ITG Posit",
+    "": ""
+  },
+  {
+    "ExchangeCode": "IA",
+    "ExchangeName": "Abidjan",
+    "RegionCode": "IA",
+    "RegionName": "Ivory Coast",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JA",
+    "ExchangeName": "Kingston",
+    "RegionCode": "JA",
+    "RegionName": "Jamaica",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JY",
+    "ExchangeName": "Jersey",
+    "RegionCode": "JY",
+    "RegionName": "Jersey",
+    "": ""
+  },
+  {
+    "ExchangeCode": "JR",
+    "ExchangeName": "Amman",
+    "RegionCode": "JR",
+    "RegionName": "Jordan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AK",
+    "ExchangeName": "Kabul Intl",
+    "RegionCode": "AK",
+    "RegionName": "Kabul Intl",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KX",
+    "ExchangeName": "AIX",
+    "RegionCode": "KZ",
+    "RegionName": "Kazakhstan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KZ",
+    "ExchangeName": "KazkhstnStEX",
+    "RegionCode": "KZ",
+    "RegionName": "Kazakhstan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KN",
+    "ExchangeName": "Nairobi SE",
+    "RegionCode": "KN",
+    "RegionName": "Kenya",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KO",
+    "ExchangeName": "Kosovo",
+    "RegionCode": "KO",
+    "RegionName": "Kosovo",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KF",
+    "ExchangeName": "K-OTC",
+    "RegionCode": "KF",
+    "RegionName": "K-OTC",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KK",
+    "ExchangeName": "Kuwait",
+    "RegionCode": "KK",
+    "RegionName": "Kuwait",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KB",
+    "ExchangeName": "Kyrgyzstan",
+    "RegionCode": "KB",
+    "RegionName": "Kyrgyzstan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LS",
+    "ExchangeName": "Laos SE",
+    "RegionCode": "LS",
+    "RegionName": "Laos Pep Dm Rp",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LB",
+    "ExchangeName": "Beirut",
+    "RegionCode": "LB",
+    "RegionName": "Lebanon",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LY",
+    "ExchangeName": "LibyanStExc",
+    "RegionCode": "LY",
+    "RegionName": "Libn Arb Jmhra",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LE",
+    "ExchangeName": "Liechtenstei",
+    "RegionCode": "LE",
+    "RegionName": "Liechtenstein",
+    "": ""
+  },
+  {
+    "ExchangeCode": "L3",
+    "ExchangeName": "Liquidnet",
+    "RegionCode": "L3",
+    "RegionName": "Liquidnet",
+    "": ""
+  },
+  {
+    "ExchangeCode": "L1",
+    "ExchangeName": "Liquidnet IR",
+    "RegionCode": "L1",
+    "RegionName": "Liquidnet IR",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LH",
+    "ExchangeName": "Vilnius SE",
+    "RegionCode": "LH",
+    "RegionName": "Lithuania",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LI",
+    "ExchangeName": "London Intl",
+    "RegionCode": "LI",
+    "RegionName": "London Intl",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LO",
+    "ExchangeName": "LSE EuropeQS",
+    "RegionCode": "LI",
+    "RegionName": "London Intl",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LX",
+    "ExchangeName": "Luxembourg",
+    "RegionCode": "LX",
+    "RegionName": "Luxembourg",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MA",
+    "ExchangeName": "Macau",
+    "RegionCode": "MA",
+    "RegionName": "Macau",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MS",
+    "ExchangeName": "Macedonia",
+    "RegionCode": "MS",
+    "RegionName": "Macedonia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MD",
+    "ExchangeName": "Madeira",
+    "RegionCode": "MD",
+    "RegionName": "Madeira",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MW",
+    "ExchangeName": "Malawi SE",
+    "RegionCode": "MW",
+    "RegionName": "Malawi",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MK",
+    "ExchangeName": "Bursa Malays",
+    "RegionCode": "MK",
+    "RegionName": "Malaysia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MX",
+    "ExchangeName": "Maldives S E",
+    "RegionCode": "MX",
+    "RegionName": "Maldives",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MV",
+    "ExchangeName": "Valletta",
+    "RegionCode": "MV",
+    "RegionName": "Malta",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MI",
+    "ExchangeName": "Marshall Isd",
+    "RegionCode": "MI",
+    "RegionName": "Marshall Islds",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MP",
+    "ExchangeName": "SEM",
+    "RegionCode": "MP",
+    "RegionName": "Mauritius",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MQ",
+    "ExchangeName": "MESDAQ",
+    "RegionCode": "MQ",
+    "RegionName": "MESDAQ",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MB",
+    "ExchangeName": "Moldova",
+    "RegionCode": "MB",
+    "RegionName": "Moldova",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MN",
+    "ExchangeName": "Monaco",
+    "RegionCode": "MN",
+    "RegionName": "Monaco",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MO",
+    "ExchangeName": "Mongolia",
+    "RegionCode": "MO",
+    "RegionName": "Mongolia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ME",
+    "ExchangeName": "Montenegro",
+    "RegionCode": "ME",
+    "RegionName": "Montenegro",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MC",
+    "ExchangeName": "Casablanca",
+    "RegionCode": "MC",
+    "RegionName": "Morocco",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MZ",
+    "ExchangeName": "MozambiqStEx",
+    "RegionCode": "MZ",
+    "RegionName": "Mozambique",
+    "": ""
+  },
+  {
+    "ExchangeCode": "M0",
+    "ExchangeName": "MS MTF",
+    "RegionCode": "M0",
+    "RegionName": "MS MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MY",
+    "ExchangeName": "Yangon Exch",
+    "RegionCode": "MY",
+    "RegionName": "Myanmar",
+    "": ""
+  },
+  {
+    "ExchangeCode": "C1",
+    "ExchangeName": "Nth SSE-SEHK",
+    "RegionCode": "C1",
+    "RegionName": "N SSE-SEHK Con",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NW",
+    "ExchangeName": "Windhoek",
+    "RegionCode": "NW",
+    "RegionName": "Namibia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "DU",
+    "ExchangeName": "Nasdaq Dubai",
+    "RegionCode": "DU",
+    "RegionName": "Nasdaq Dubai",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ES",
+    "ExchangeName": "NASDAQ Europ",
+    "RegionCode": "ES",
+    "RegionName": "NASDAQ Europe",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NK",
+    "ExchangeName": "Nepal Stock",
+    "RegionCode": "NK",
+    "RegionName": "Nepal",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NT",
+    "ExchangeName": "Neth Antille",
+    "RegionCode": "NT",
+    "RegionName": "Neth Antilles",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NA",
+    "ExchangeName": "EN Amsterdam",
+    "RegionCode": "NA",
+    "RegionName": "Netherlands",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NE",
+    "ExchangeName": "EN AmstDer",
+    "RegionCode": "NA",
+    "RegionName": "Netherlands",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NN",
+    "ExchangeName": "Amsterdam NM",
+    "RegionCode": "NA",
+    "RegionName": "Netherlands",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NQ",
+    "ExchangeName": "NSDQ OMX Eur",
+    "RegionCode": "NQ",
+    "RegionName": "NEURO",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NX",
+    "ExchangeName": "St Kts & Nvs",
+    "RegionCode": "NX",
+    "RegionName": "Nevis",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NV",
+    "ExchangeName": "OTC  New Zld",
+    "RegionCode": "NZ",
+    "RegionName": "New Zealand",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NZ",
+    "ExchangeName": "NZX",
+    "RegionCode": "NZ",
+    "RegionName": "New Zealand",
+    "": ""
+  },
+  {
+    "ExchangeCode": "EX",
+    "ExchangeName": "NEWEX",
+    "RegionCode": "EX",
+    "RegionName": "NEWEX",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NC",
+    "ExchangeName": "Nicaragua",
+    "RegionCode": "NC",
+    "RegionName": "Nicaragua",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NJ",
+    "ExchangeName": "Nigeria NOTC",
+    "RegionCode": "NL",
+    "RegionName": "Nigeria",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NL",
+    "ExchangeName": "Nigerian Exc",
+    "RegionCode": "NL",
+    "RegionName": "Nigeria",
+    "": ""
+  },
+  {
+    "ExchangeCode": "C2",
+    "ExchangeName": "Nth SZ-SEHK",
+    "RegionCode": "C2",
+    "RegionName": "No SZ-SEHK Con",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NO",
+    "ExchangeName": "Oslo",
+    "RegionCode": "NO",
+    "RegionName": "Norway",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NS",
+    "ExchangeName": "Norway OTC",
+    "RegionCode": "NO",
+    "RegionName": "Norway",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NR",
+    "ExchangeName": "NYSE ARCA Eu",
+    "RegionCode": "NR",
+    "RegionName": "NYSE ARCA Eur",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LD",
+    "ExchangeName": "EN London",
+    "RegionCode": "LD",
+    "RegionName": "NYSE EU London",
+    "": ""
+  },
+  {
+    "ExchangeCode": "OF",
+    "ExchangeName": "OFEX London",
+    "RegionCode": "OF",
+    "RegionName": "OFEX London",
+    "": ""
+  },
+  {
+    "ExchangeCode": "OM",
+    "ExchangeName": "Muscat",
+    "RegionCode": "OM",
+    "RegionName": "Oman",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PS",
+    "ExchangeName": "Palestine",
+    "RegionCode": "PS",
+    "RegionName": "Palestine",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PP",
+    "ExchangeName": "Latinex",
+    "RegionCode": "PP",
+    "RegionName": "Panama",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PB",
+    "ExchangeName": "PNGX Markets",
+    "RegionCode": "PB",
+    "RegionName": "Papua N.Guinea",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PN",
+    "ExchangeName": "Asuncion",
+    "RegionCode": "PN",
+    "RegionName": "Paraguay",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PE",
+    "ExchangeName": "BVL",
+    "RegionCode": "PE",
+    "RegionName": "Peru",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PX",
+    "ExchangeName": "PEX",
+    "RegionCode": "PX",
+    "RegionName": "PEX",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PM",
+    "ExchangeName": "Philippines",
+    "RegionCode": "PM",
+    "RegionName": "Philippines",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PG",
+    "ExchangeName": "PLUS Europe",
+    "RegionCode": "PG",
+    "RegionName": "PLUS Europe",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PC",
+    "ExchangeName": "Warsaw Cont",
+    "RegionCode": "PW",
+    "RegionName": "Poland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PD",
+    "ExchangeName": "Poland OTC",
+    "RegionCode": "PW",
+    "RegionName": "Poland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PT",
+    "ExchangeName": "Warsaw Auct",
+    "RegionCode": "PW",
+    "RegionName": "Poland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PW",
+    "ExchangeName": "Warsaw",
+    "RegionCode": "PW",
+    "RegionName": "Poland",
+    "": ""
+  },
+  {
+    "ExchangeCode": "PL",
+    "ExchangeName": "EN Lisbon",
+    "RegionCode": "PL",
+    "RegionName": "Portugal",
+    "": ""
+  },
+  {
+    "ExchangeCode": "P2",
+    "ExchangeName": "Posit",
+    "RegionCode": "P2",
+    "RegionName": "Posit",
+    "": ""
+  },
+  {
+    "ExchangeCode": "QD",
+    "ExchangeName": "Qatar",
+    "RegionCode": "QD",
+    "RegionName": "Qatar",
+    "": ""
+  },
+  {
+    "ExchangeCode": "QM",
+    "ExchangeName": "Quote MTF",
+    "RegionCode": "QM",
+    "RegionName": "Quote MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "QT",
+    "ExchangeName": "Quotrix Exch",
+    "RegionCode": "QT",
+    "RegionName": "Quotrix Exchg",
+    "": ""
+  },
+  {
+    "ExchangeCode": "BK",
+    "ExchangeName": "Banja Luka",
+    "RegionCode": "BK",
+    "RegionName": "Rpblika Srpska",
+    "": ""
+  },
+  {
+    "ExchangeCode": "RW",
+    "ExchangeName": "Rwanda",
+    "RegionCode": "RW",
+    "RegionName": "Rwanda",
+    "": ""
+  },
+  {
+    "ExchangeCode": "H1",
+    "ExchangeName": "Sth SSE-SEHK",
+    "RegionCode": "H1",
+    "RegionName": "S SSE-SEHK Con",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AB",
+    "ExchangeName": "Saudi Arabia",
+    "RegionCode": "AB",
+    "RegionName": "Saudi Arabia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ZS",
+    "ExchangeName": "Senegal",
+    "RegionCode": "ZS",
+    "RegionName": "Senegal",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SG",
+    "ExchangeName": "Belgrade SE",
+    "RegionCode": "SG",
+    "RegionName": "Serbia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SZ",
+    "ExchangeName": "Seychelles",
+    "RegionCode": "SZ",
+    "RegionName": "Seychelles",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SH",
+    "ExchangeName": "SharesPost",
+    "RegionCode": "SH",
+    "RegionName": "SharesPost Mkt",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SU",
+    "ExchangeName": "Sierra Leone",
+    "RegionCode": "SU",
+    "RegionName": "Sierra Leone",
+    "": ""
+  },
+  {
+    "ExchangeCode": "S1",
+    "ExchangeName": "SIGMA X MTF",
+    "RegionCode": "S1",
+    "RegionName": "SIGMA X MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "S4",
+    "ExchangeName": "SIGMA-X EU",
+    "RegionCode": "S4",
+    "RegionName": "SIGMA-X EU MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SP",
+    "ExchangeName": "Singapore",
+    "RegionCode": "SP",
+    "RegionName": "Singapore",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SK",
+    "ExchangeName": "Bratislava",
+    "RegionCode": "SK",
+    "RegionName": "Slovakia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SV",
+    "ExchangeName": "Ljubljana",
+    "RegionCode": "SV",
+    "RegionName": "Slovenia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "H2",
+    "ExchangeName": "Sth SZ-SEHK",
+    "RegionCode": "H2",
+    "RegionName": "So SZ-SEHK Con",
+    "": ""
+  },
+  {
+    "ExchangeCode": "AJ",
+    "ExchangeName": "A2X",
+    "RegionCode": "SJ",
+    "RegionName": "South Africa",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SJ",
+    "ExchangeName": "Johannesburg",
+    "RegionCode": "SJ",
+    "RegionName": "South Africa",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SL",
+    "ExchangeName": "Colombo",
+    "RegionCode": "SL",
+    "RegionName": "Sri Lanka",
+    "": ""
+  },
+  {
+    "ExchangeCode": "S3",
+    "ExchangeName": "Sudan",
+    "RegionCode": "S3",
+    "RegionName": "Sudan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "KA",
+    "ExchangeName": "Spotlight",
+    "RegionCode": "SS",
+    "RegionName": "Sweden",
+    "": ""
+  },
+  {
+    "ExchangeCode": "NG",
+    "ExchangeName": "Nordic GM",
+    "RegionCode": "SS",
+    "RegionName": "Sweden",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SF",
+    "ExchangeName": "FN Stockholm",
+    "RegionCode": "SS",
+    "RegionName": "Sweden",
+    "": ""
+  },
+  {
+    "ExchangeCode": "SS",
+    "ExchangeName": "Stockholm",
+    "RegionCode": "SS",
+    "RegionName": "Sweden",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TT",
+    "ExchangeName": "Taiwan",
+    "RegionCode": "TT",
+    "RegionName": "Taiwan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TT",
+    "ExchangeName": "Taipei",
+    "RegionCode": "TT",
+    "RegionName": "Taiwan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TD",
+    "ExchangeName": "Tajikistan",
+    "RegionCode": "TD",
+    "RegionName": "Tajikistan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TZ",
+    "ExchangeName": "Dar E Slm SE",
+    "RegionCode": "TZ",
+    "RegionName": "Tanzania",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TB",
+    "ExchangeName": "Bangkok",
+    "RegionCode": "TB",
+    "RegionName": "Thailand",
+    "": ""
+  },
+  {
+    "ExchangeCode": "MT",
+    "ExchangeName": "TOM MTF",
+    "RegionCode": "MT",
+    "RegionName": "TOM MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "Z2",
+    "ExchangeName": "TRACE",
+    "RegionCode": "Z2",
+    "RegionName": "TRACE",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TH",
+    "ExchangeName": "Tradegate",
+    "RegionCode": "TH",
+    "RegionName": "Tradegate",
+    "": ""
+  },
+  {
+    "ExchangeCode": "X9",
+    "ExchangeName": "TW APA EU",
+    "RegionCode": "X9",
+    "RegionName": "Tradeweb APA",
+    "": ""
+  },
+  {
+    "ExchangeCode": "T2",
+    "ExchangeName": "TradeWeb MTF",
+    "RegionCode": "T2",
+    "RegionName": "TradeWeb MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "WT",
+    "ExchangeName": "TW MTF EU",
+    "RegionCode": "WT",
+    "RegionName": "Tradeweb MTF",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TP",
+    "ExchangeName": "Port Spain",
+    "RegionCode": "TP",
+    "RegionName": "Trinidad",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TU",
+    "ExchangeName": "Tunis",
+    "RegionCode": "TU",
+    "RegionName": "Tunisia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "T0",
+    "ExchangeName": "TurkDEX",
+    "RegionCode": "T0",
+    "RegionName": "TurkDEX",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TF",
+    "ExchangeName": "Istn 1st Ses",
+    "RegionCode": "TI",
+    "RegionName": "Turkey",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TI",
+    "ExchangeName": "Istanbul",
+    "RegionCode": "TI",
+    "RegionName": "Turkey",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TS",
+    "ExchangeName": "Istn 2nd Ses",
+    "RegionCode": "TI",
+    "RegionName": "Turkey",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TM",
+    "ExchangeName": "Turkmenistan",
+    "RegionCode": "TM",
+    "RegionName": "Turkmenistan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TC",
+    "ExchangeName": "Turks& Caico",
+    "RegionCode": "TC",
+    "RegionName": "Turks & Caico",
+    "": ""
+  },
+  {
+    "ExchangeCode": "T1",
+    "ExchangeName": "Turquoise Eu",
+    "RegionCode": "T1",
+    "RegionName": "Turquoise EU",
+    "": ""
+  },
+  {
+    "ExchangeCode": "TQ",
+    "ExchangeName": "Turquoise",
+    "RegionCode": "TQ",
+    "RegionName": "Turquoise Mkt",
+    "": "s"
+  },
+  {
+    "ExchangeCode": "UG",
+    "ExchangeName": "Uganda",
+    "RegionCode": "UG",
+    "RegionName": "Uganda",
+    "": ""
+  },
+  {
+    "ExchangeCode": "OU",
+    "ExchangeName": "PFTSOrderdrv",
+    "RegionCode": "UZ",
+    "RegionName": "Ukraine",
+    "": ""
+  },
+  {
+    "ExchangeCode": "QU",
+    "ExchangeName": "PFTSQuotedrv",
+    "RegionCode": "UZ",
+    "RegionName": "Ukraine",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UK",
+    "ExchangeName": "RTS Ukraine",
+    "RegionCode": "UZ",
+    "RegionName": "Ukraine",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UZ",
+    "ExchangeName": "PFTS",
+    "RegionCode": "UZ",
+    "RegionName": "Ukraine",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LC",
+    "ExchangeName": "Composite",
+    "RegionCode": "LN",
+    "RegionName": "United Kingdom",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LN",
+    "ExchangeName": "London",
+    "RegionCode": "LN",
+    "RegionName": "United Kingdom",
+    "": ""
+  },
+  {
+    "ExchangeCode": "LT",
+    "ExchangeName": "Tradepoint",
+    "RegionCode": "LN",
+    "RegionName": "United Kingdom",
+    "": ""
+  },
+  {
+    "ExchangeCode": "UY",
+    "ExchangeName": "Montevideo",
+    "RegionCode": "UY",
+    "RegionName": "Uruguay",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ZU",
+    "ExchangeName": "Uzbekistan",
+    "RegionCode": "ZU",
+    "RegionName": "Uzbekistan",
+    "": ""
+  },
+  {
+    "ExchangeCode": "GK",
+    "ExchangeName": "XetraIntlMkt",
+    "RegionCode": "GK",
+    "RegionName": "Xetra Intl Mkt",
+    "": ""
+  },
+  {
+    "ExchangeCode": "YS",
+    "ExchangeName": "Yemen",
+    "RegionCode": "YS",
+    "RegionName": "Yemen",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ZL",
+    "ExchangeName": "Lusaka",
+    "RegionCode": "ZL",
+    "RegionName": "Zambia",
+    "": ""
+  },
+  {
+    "ExchangeCode": "ZH",
+    "ExchangeName": "Harare",
+    "RegionCode": "ZH",
+    "RegionName": "Zimbabwe",
+    "": ""
+  },
+  {
+    "ExchangeCode": "FX",
+    "ExchangeName": "Forex",
+    "RegionCode": "GB",
+    "RegionName": "Global",
+    "": ""
+  },
+  {
+    "ExchangeCode": "CRY",
+    "ExchangeName": "Cryptocurrency",
+    "RegionCode": "GB",
+    "RegionName": "Global",
+    "": ""
+  }
+]
