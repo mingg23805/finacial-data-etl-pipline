@@ -7,10 +7,40 @@ import json
 import numpy as np
 logger = setup_logger(__name__)
 
+def map_industry_code(company_df, industry_dict):
+    """
+    Gán mã ngành (code) cho DataFrame dựa trên industry và sector
+    Parameters:
+        df: DataFrame chứa các cột 'industry' và 'sector'
+        industry_mapping: dict với key là (industry, sector), value là code
+    Returns:
+        DataFrame với cột 'code' được cập nhật
+    """
+    # Ánh xạ code từ industry_mapping
+    company_df["industry_id"] = company_df.apply(
+    lambda row: industry_dict.get((row["industry"], row["sector"]), pd.NA),
+    axis=1
+)
+    company_df[["industry", "sector", "industry_id"]] = company_df[["industry", "sector", "industry_id"]].replace('', np.nan)
 
+    company_df["industry_id"] = company_df["industry_id"].astype("Int64")
+
+    # Nếu industry & sector không rỗng nhưng industry_id không tìm thấy → gán 999
+    company_df.loc[
+        company_df["industry_id"].isna() &
+        company_df["industry"].notna() &
+        company_df["sector"].notna(),
+        "industry_id"
+    ] = 999
+
+    return company_df
 def companies_df():
     company_df = read_json_file('backend/data/raw/companies.json')
+    industry_dict=industry_map()
+    company_df=map_industry_code(company_df, industry_dict)
     
+    exchange_mapping, region_mapping = region_and_exchange_map()
+    company_df["exchange_id"] = company_df["exchange"].map(exchange_mapping)
     return company_df 
 def market_df():
     market_df=read_json_file('backend/data/raw/market_status.json').get("markets",[])
