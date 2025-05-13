@@ -6,6 +6,20 @@ import json
 import numpy as np
 import os
 import datetime
-def transform_to_database_region_industry_sic():
-    market_df=market_df()
-    companies_df=companies_df()
+logger= setup_logger(__name__)
+def transform_to_database_sic():
+    company_df=companies_df()
+    col=["industry_id","industry","sector"]
+    industries_df=company_df[col]
+    industries_df=industries_df.drop_duplicates(subset=["industry_id"])[col]
+    industries_df=industries_df.reset_index(drop=True)
+    
+    return industries_df.head(10)
+def transform_to_database_sic():
+    company_df=companies_df()
+    col=["sic","sicIndustry","sicSector"]
+    sicindustries_df=company_df[col]
+    sicindustries_df=sicindustries_df.drop_duplicates(subset=["sic"])[col]
+    sicindustries_df=sicindustries_df.reset_index(drop=True)
+    
+    return sicindustries_df.head(10)

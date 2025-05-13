@@ -45,7 +45,7 @@ def companies_df():
 def market_df():
     market_df=read_json_file('backend/data/raw/market_status.json').get("markets",[])
     market_df=pd.json_normalize(market_df)
-    
+    market_df=market_df.drop(columns=["market_type","notes"])
     market_df = market_df.rename(columns={"primary_exchanges": "primary_exchange"})
 
     market_df.columns = market_df.columns.str.strip().str.lower()
@@ -54,19 +54,12 @@ def market_df():
     market_df = market_df.explode("primary_exchange").reset_index(drop=True)
     
     market_df=market_df.replace('', np.nan)
+    
+    exchange_mapping, region_mapping = region_and_exchange_map()
+    market_df["exchange_id"] = market_df["primary_exchange"].map(exchange_mapping)
+    market_df["region_id"] = market_df["region"].map(region_mapping)
 
-    exchanges_df = read_json_file('backend/data/raw/ExchangeAndRegion.json')
-    exchanges_df=exchanges_df[["ExchangeName", "ExchangeCode", "RegionName", "RegionCode"]]
-    exchanges_df = exchanges_df.rename(columns={
-    "ExchangeName": "primary_exchange",
-    "ExchangeCode": "exchange_id",
-    "RegionName": "region",
-    "RegionCode": "region_id"
-})
-    market_df = market_df.merge(exchanges_df[["primary_exchange", "region", "exchange_id", "region_id"]],
-                            on=["primary_exchange", "region"],
-                            how="left")
-    market_df = market_df.drop(columns=["notes",'market_type'], axis=1)
+    
     return market_df
 def region_and_exchange_map():
     exchanges_df = read_json_file('backend/data/raw/ExchangeAndRegion.json')
