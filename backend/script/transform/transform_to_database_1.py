@@ -1,9 +1,8 @@
 from configfile.logger_utils import setup_logger
-from backend.script.transform.json_to_df import companies_df
+from configfile.io_utils import write_to_parquet
 
 logger =setup_logger(__name__)
-def transform_to_database_companies():
-    df=companies_df() 
+def transform_to_database_companies(df,file_path): 
     
     df = df[[
     "id",       # mã công ty
@@ -17,6 +16,6 @@ def transform_to_database_companies():
     "currency",         # đơn vị tiền tệ
     "location"          # vị trí
 ]]
+    write_to_parquet(df, file_path)
     
     
-    return df

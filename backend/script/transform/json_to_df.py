@@ -42,7 +42,7 @@ def companies_df():
     exchange_mapping, region_mapping = region_and_exchange_map()
     company_df["exchange_id"] = company_df["exchange"].map(exchange_mapping)
     return company_df 
-def market_df():
+def markets_df():
     market_df=read_json_file('backend/data/raw/market_status.json').get("markets",[])
     market_df=pd.json_normalize(market_df)
     market_df=market_df.drop(columns=["market_type","notes"])
