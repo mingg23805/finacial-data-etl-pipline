@@ -24,6 +24,7 @@ def map_industry_code(company_df, industry_dict):
     company_df[["industry", "sector", "industry_id"]] = company_df[["industry", "sector", "industry_id"]].replace('', np.nan)
 
     company_df["industry_id"] = company_df["industry_id"].astype("Int64")
+    
 
     # Nếu industry & sector không rỗng nhưng industry_id không tìm thấy → gán 999
     company_df.loc[
@@ -36,6 +37,7 @@ def map_industry_code(company_df, industry_dict):
     return company_df
 def companies_df():
     company_df = read_json_file('backend/data/raw/companies.json')
+    company_df["sic"] = company_df["sic"].astype("Int64")
     industry_dict=industry_map()
     company_df=map_industry_code(company_df, industry_dict)
     
