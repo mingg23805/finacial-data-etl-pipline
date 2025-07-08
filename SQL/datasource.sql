@@ -40,7 +40,7 @@ CREATE TABLE IF NOT EXISTS companies (
     company_sic_id INT,
     company_update_time_stamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     company_name VARCHAR(255) NOT NULL,
-    company_tickerr VARCHAR(10) NOT NULL,
+    company_ticker VARCHAR(10) NOT NULL,
     company_is_delisted BOOLEAN NOT NULL DEFAULT FALSE,
     company_category VARCHAR(255),
     company_currency VARCHAR(10),
