@@ -16,6 +16,18 @@ def transform_to_database_companies(df,file_path):
     "currency",         # đơn vị tiền tệ
     "location"          # vị trí
 ]]
+    df = df.rename(columns={
+        "id": "company_id",
+        "exchange_id": "company_exchange_id",
+        "industry_id": "company_industry_id",
+        "sic": "company_sic_id",
+        "name": "company_name",
+        "ticker": "company_ticker",
+        "isDelisted": "company_is_delisted",
+        "category": "company_category",
+        "currency": "company_currency",
+        "location": "company_location"
+    })
     write_to_parquet(df, file_path)
     
     

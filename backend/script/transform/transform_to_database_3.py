@@ -15,6 +15,13 @@ def transform_to_database_region(df,file_path):
     
     col=["region_id","region","local_open","local_close"]
     df=df[col]
+    df.rename(columns={
+        "region": "region_name",
+        "local_open": "region_local_open",
+        "local_close": "region_local_close"
+    }, inplace=True)
+    
     df=df.drop_duplicates(subset=["region_id"])
+    df[["region_local_open", "region_local_close"]] = df[["region_local_open", "region_local_close"]].apply(pd.to_datetime, errors='coerce')
     
     write_to_parquet(df, file_path)
