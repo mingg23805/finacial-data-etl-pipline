@@ -37,12 +37,13 @@ def map_industry_code(company_df, industry_dict):
     return company_df
 def companies_df():
     company_df = read_json_file('backend/data/raw/companies.json')
-    company_df["sic"] = company_df["sic"].astype("Int64")
     industry_dict=industry_map()
     company_df=map_industry_code(company_df, industry_dict)
     
     exchange_mapping, region_mapping = region_and_exchange_map()
     company_df["exchange_id"] = company_df["exchange"].map(exchange_mapping)
+    company_df.replace('', np.nan, inplace=True)
+    company_df["sic"] = company_df["sic"].astype("Int64")
     return company_df 
 def markets_df():
     market_df=read_json_file('backend/data/raw/market_status.json').get("markets",[])
