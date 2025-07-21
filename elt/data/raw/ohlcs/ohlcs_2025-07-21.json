@@ -1,0 +1,424 @@
+{
+    "results": [
+        {
+            "id": "dbf1a947130a3842d058b1ffb9c52cde536c6c3ff155e430bd722557d7926023",
+            "publisher": {
+                "name": "GlobeNewswire Inc.",
+                "homepage_url": "https://www.globenewswire.com",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+            },
+            "title": "Pomerantz LLP and The Rosen Law Firm, P.A. Announce Proposed Class Action Settlement on Behalf of Purchasers of Class A Ordinary Shares of GigaCloud Technology Inc \u2013 GCT",
+            "author": "Pomerantz Llp And The Rosen Law Firm, P.A.",
+            "published_utc": "2025-07-21T13:00:00Z",
+            "article_url": "https://www.globenewswire.com/news-release/2025/07/21/3118776/30196/en/Pomerantz-LLP-and-The-Rosen-Law-Firm-P-A-Announce-Proposed-Class-Action-Settlement-on-Behalf-of-Purchasers-of-Class-A-Ordinary-Shares-of-GigaCloud-Technology-Inc-GCT.html",
+            "tickers": [
+                "GCT"
+            ],
+            "image_url": "https://www.globenewswire.com/news-release/2025/07/21/3118776/30196/en/Pomerantz-LLP-and-The-Rosen-Law-Firm-P-A-Announce-Proposed-Class-Action-Settlement-on-Behalf-of-Purchasers-of-Class-A-Ordinary-Shares-of-GigaCloud-Technology-Inc-GCT.html",
+            "description": "Law firms announced a proposed $2.75 million class action settlement for GigaCloud Technology Inc shareholders who purchased shares between August 18, 2022 and May 22, 2024, with a settlement hearing scheduled for October 9, 2025.",
+            "keywords": [
+                "class action",
+                "securities settlement",
+                "shareholder lawsuit"
+            ],
+            "insights": [
+                {
+                    "ticker": "GCT",
+                    "sentiment": "negative",
+                    "sentiment_reasoning": "The proposed settlement suggests potential legal issues or misconduct related to the company's securities, which typically indicates negative corporate governance or financial reporting concerns"
+                }
+            ]
+        },
+        {
+            "id": "9396c631b5f1c23e8e3cbc74c133a132f7adc3618ede7468d78ec9f32efba722",
+            "publisher": {
+                "name": "GlobeNewswire Inc.",
+                "homepage_url": "https://www.globenewswire.com",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+            },
+            "title": "Bitget Wallet Report Reveals Gaming and Travel Are Top Crypto Payment Interests",
+            "author": "Jamie Elkaleh",
+            "published_utc": "2025-07-21T13:00:00Z",
+            "article_url": "https://www.globenewswire.com/news-release/2025/07/21/3118755/0/en/Bitget-Wallet-Report-Reveals-Gaming-and-Travel-Are-Top-Crypto-Payment-Interests.html",
+            "tickers": [
+                "MA"
+            ],
+            "image_url": "https://ml-eu.globenewswire.com/Resource/Download/54f53f4a-c971-45dc-990a-66d26cb6888f",
+            "description": "Bitget Wallet's third Onchain Report reveals global crypto users' payment preferences, with gaming, daily purchases, and travel being top spending categories. Different generations and regions show varied crypto payment interests, reflecting diverse digital asset usage.",
+            "keywords": [
+                "crypto payments",
+                "digital assets",
+                "wallet usage",
+                "generational preferences",
+                "regional trends"
+            ],
+            "insights": [
+                {
+                    "ticker": "MA",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a payment infrastructure partner for Bitget Wallet's crypto-linked card, indicating collaborative potential in crypto payment ecosystem"
+                }
+            ]
+        },
+        {
+            "id": "5376d1015ee238891bdf85539cc761e67b9812357004ca635aa0386c9ade2be8",
+            "publisher": {
+                "name": "GlobeNewswire Inc.",
+                "homepage_url": "https://www.globenewswire.com",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+            },
+            "title": "Cohen Milstein Sellers & Toll PLLC Announces Proposed Class Action Settlement on Behalf of Purchasers of InnovAge Holding Corp. Publicly Traded Common Stock - INNV",
+            "author": "Cohen Milstein Sellers & Toll Pllc",
+            "published_utc": "2025-07-21T13:00:00Z",
+            "article_url": "https://www.globenewswire.com/news-release/2025/07/21/3118778/0/en/Cohen-Milstein-Sellers-Toll-PLLC-Announces-Proposed-Class-Action-Settlement-on-Behalf-of-Purchasers-of-InnovAge-Holding-Corp-Publicly-Traded-Common-Stock-INNV.html",
+            "tickers": [
+                "INNV",
+                "AMJB",
+                "JPM",
+                "JPMpC",
+                "JPMpD",
+                "JPMpJ",
+                "JPMpK",
+                "JPMpL",
+                "JPMpM",
+                "VYLD",
+                "GS",
+                "GSpA",
+                "GSpC",
+                "GSpD"
+            ],
+            "image_url": "https://www.globenewswire.com/news-release/2025/07/21/3118778/0/en/Cohen-Milstein-Sellers-Toll-PLLC-Announces-Proposed-Class-Action-Settlement-on-Behalf-of-Purchasers-of-InnovAge-Holding-Corp-Publicly-Traded-Common-Stock-INNV.html",
+            "description": "A proposed $27 million class action settlement has been announced for InnovAge Holding Corp shareholders who purchased stock between May 11, 2021, and December 22, 2021, related to potential securities litigation.",
+            "keywords": [
+                "class action",
+                "securities litigation",
+                "settlement",
+                "shareholder",
+                "IPO"
+            ],
+            "insights": [
+                {
+                    "ticker": "INNV",
+                    "sentiment": "negative",
+                    "sentiment_reasoning": "The class action settlement suggests potential legal and financial challenges for the company, indicating investors may have experienced losses or misconduct during the specified period"
+                },
+                {
+                    "ticker": "AMJB",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "JPM",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "JPMpC",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "JPMpD",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "JPMpJ",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "JPMpK",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "JPMpL",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "JPMpM",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "VYLD",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "GS",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "GSpA",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "GSpC",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                },
+                {
+                    "ticker": "GSpD",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a defendant in the lawsuit without specific details of direct wrongdoing"
+                }
+            ]
+        },
+        {
+            "id": "4e8a203efbb3cc49e04808f348a3acdf2b84a47e224c99b3bd8ab4b8237ec541",
+            "publisher": {
+                "name": "GlobeNewswire Inc.",
+                "homepage_url": "https://www.globenewswire.com",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+            },
+            "title": "Gevo Sells Carbon Credits from North Dakota Asset",
+            "author": "Gevo, Inc.",
+            "published_utc": "2025-07-21T13:00:00Z",
+            "article_url": "https://www.globenewswire.com/news-release/2025/07/21/3118762/23976/en/Gevo-Sells-Carbon-Credits-from-North-Dakota-Asset.html",
+            "tickers": [
+                "GEVO"
+            ],
+            "image_url": "https://ml.globenewswire.com/Resource/Download/6b6b11ab-db21-46af-99e4-0632fdbba073",
+            "description": "Gevo has begun selling carbon abatement credits (CORCs) to a global financial and technology company, leveraging its North Dakota ethanol facility's carbon capture and storage capabilities to generate high-integrity carbon removal credits.",
+            "keywords": [
+                "carbon removal",
+                "carbon credits",
+                "carbon capture",
+                "sustainable aviation fuel",
+                "decarbonization"
+            ],
+            "insights": [
+                {
+                    "ticker": "GEVO",
+                    "sentiment": "positive",
+                    "sentiment_reasoning": "Company is expanding into a new market by selling carbon removal credits, demonstrating innovation and creating a new revenue stream"
+                }
+            ]
+        },
+        {
+            "id": "39cf8f91bc8625d98e4d04885d1e3486c95598ccf56ff30cc311d87f165eb369",
+            "publisher": {
+                "name": "GlobeNewswire Inc.",
+                "homepage_url": "https://www.globenewswire.com",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+            },
+            "title": "Gait Biometrics Market Size to Hit USD 3.41 Billion by 2032, at 13.38% CAGR | Research by SNS Insider",
+            "author": "Sns Insider",
+            "published_utc": "2025-07-21T13:00:00Z",
+            "article_url": "https://www.globenewswire.com/news-release/2025/07/21/3118758/0/en/Gait-Biometrics-Market-Size-to-Hit-USD-3-41-Billion-by-2032-at-13-38-CAGR-Research-by-SNS-Insider.html",
+            "tickers": [
+                "INTC"
+            ],
+            "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+            "description": "The global Gait Biometrics Market is projected to grow from USD 1.25 Billion in 2024 to USD 3.41 Billion by 2032, driven by advancements in AI, sensor technology, and demand for contactless identification across security, healthcare, and smart city applications.",
+            "keywords": [
+                "gait biometrics",
+                "AI",
+                "contactless identification",
+                "security",
+                "healthcare"
+            ],
+            "insights": [
+                {
+                    "ticker": "INTC",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a market player without specific details about their gait biometrics technology"
+                }
+            ]
+        },
+        {
+            "id": "db33b6b4cb3fd8919d2fce04ecd02271908d9c027b76eebcd3d58c56e609be47",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Domino's Expands Footprint, Delivers Strong Sales In Q2",
+            "author": "Vandana Singh",
+            "published_utc": "2025-07-21T12:41:17Z",
+            "article_url": "https://www.benzinga.com/markets/earnings/25/07/46516826/dominos-expands-footprint-delivers-strong-sales-in-q2",
+            "tickers": [
+                "DPZ"
+            ],
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/07/21/Dominos-Pizza-storefront-at-night.jpeg?width=1200&height=800&fit=crop",
+            "description": "Domino's reported Q2 revenue of $1.15 billion, up 4.3% year-over-year, with global net store growth of 178 locations and U.S. same-store sales increasing by 3.4%. Despite slightly missing EPS estimates, the company demonstrated strong performance and strategic expansion.",
+            "keywords": [
+                "earnings",
+                "pizza",
+                "restaurant",
+                "same-store sales",
+                "expansion"
+            ],
+            "insights": [
+                {
+                    "ticker": "DPZ",
+                    "sentiment": "positive",
+                    "sentiment_reasoning": "Strong revenue growth of 4.3%, increased global store count by 178, U.S. same-store sales up 3.4%, and positive commentary from CEO about market share gains and business positioning"
+                }
+            ]
+        },
+        {
+            "id": "d917d3acab509be05f6300000dacb99bd374a27f8749377e5fc14989f1bd6761",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "First Community Bankshares, Inc. Announces Acquisition of Hometown Bancshares, Inc.",
+            "author": "Globe Newswire",
+            "published_utc": "2025-07-21T12:30:43Z",
+            "article_url": "https://www.benzinga.com/pressreleases/25/07/g46516647/first-community-bankshares-inc-announces-acquisition-of-hometown-bancshares-inc",
+            "tickers": [
+                "FCBC"
+            ],
+            "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "description": "First Community Bankshares will acquire Hometown Bancshares for $41.5 million, expanding its banking presence in West Virginia and increasing its consolidated assets to approximately $3.6 billion.",
+            "keywords": [
+                "merger",
+                "banking",
+                "acquisition",
+                "West Virginia",
+                "community banking"
+            ],
+            "insights": [
+                {
+                    "ticker": "FCBC",
+                    "sentiment": "positive",
+                    "sentiment_reasoning": "Expanding market presence, increasing assets, and expecting minimal dilution and earnings per share accretion"
+                }
+            ]
+        },
+        {
+            "id": "d4a1d89abe575114e08120cd7c4e9e3eeb5a37a1a1dbaeeff172902c1824613c",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "IQST - IQSTEL Issues Recap Shareholder Letter Highlighting $2 Debt Reduction Per Share, $400 Million Run Rate in Q3 (Ahead of Schedule), and Analyst Coverage Targeting $18-$22 Price Range",
+            "author": "Prnewswire",
+            "published_utc": "2025-07-21T12:30:00Z",
+            "article_url": "https://www.benzinga.com/pressreleases/25/07/n46516622/iqst-iqstel-issues-recap-shareholder-letter-highlighting-2-debt-reduction-per-share-400-million-ru",
+            "tickers": [
+                "IQST",
+                "CYCU",
+                "CYCUW"
+            ],
+            "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "description": "IQSTEL reported strong financial performance in its first two months on NASDAQ, highlighting $128.8 million in preliminary revenue, a $400 million projected run rate in Q3, and strategic acquisition of Globetopper, with analyst coverage targeting $18-$22 per share.",
+            "keywords": [
+                "NASDAQ",
+                "revenue",
+                "fintech",
+                "AI",
+                "telecom",
+                "acquisition"
+            ],
+            "insights": [
+                {
+                    "ticker": "IQST",
+                    "sentiment": "positive",
+                    "sentiment_reasoning": "Company demonstrated accelerated growth, reduced debt, launched innovative AI products, completed strategic acquisition, and received positive analyst coverage with a promising price target range"
+                },
+                {
+                    "ticker": "CYCU",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a partnership for potential AI-driven cybersecurity services, with no specific financial details provided"
+                },
+                {
+                    "ticker": "CYCUW",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Mentioned as a partnership for potential AI-driven cybersecurity services, with no specific financial details provided"
+                }
+            ]
+        },
+        {
+            "id": "af6f8465661dfad6e7bdbaab94d37284587e28caa9bc1087274c96096e3a5da5",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Gold Rally Intensifies as Juniors Race Toward Production",
+            "author": "Prnewswire",
+            "published_utc": "2025-07-21T12:30:00Z",
+            "article_url": "https://www.benzinga.com/pressreleases/25/07/n46516637/gold-rally-intensifies-as-juniors-race-toward-production",
+            "tickers": [
+                "SSRM",
+                "NGD"
+            ],
+            "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "description": "Gold prices surge beyond $3,300 per ounce in 2025, driven by investor skepticism about global financial systems. Canadian gold ventures, particularly in the Abitibi Greenstone Belt, are experiencing increased investment and momentum toward production.",
+            "keywords": [
+                "gold",
+                "mining",
+                "investment",
+                "production",
+                "inflation",
+                "Canadian mining"
+            ],
+            "insights": [
+                {
+                    "ticker": "SSRM",
+                    "sentiment": "positive",
+                    "sentiment_reasoning": "Operating gold assets across multiple jurisdictions with a strong balance sheet and focus on high-grade gold production"
+                },
+                {
+                    "ticker": "NGD",
+                    "sentiment": "neutral",
+                    "sentiment_reasoning": "Prioritizing operational efficiency and profitability in response to rising gold prices"
+                }
+            ]
+        },
+        {
+            "id": "56ba29883fc8b7cf578e75544107a00cc9de8fa517e8696b4859812c840daeb9",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Bit Origin Acquires Over 40 Million Dogecoin (DOGE) to Advance Treasury Strategy",
+            "author": "Globe Newswire",
+            "published_utc": "2025-07-21T12:30:00Z",
+            "article_url": "https://www.benzinga.com/pressreleases/25/07/g46516599/bit-origin-acquires-over-40-million-dogecoin-doge-to-advance-treasury-strategy",
+            "tickers": [
+                "BTOG"
+            ],
+            "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "description": "Bit Origin Ltd has strategically acquired 40.5 million Dogecoin at an average cost of $0.2466 per coin, marking its first digital asset treasury initiative supported by a $500 million capital facility.",
+            "keywords": [
+                "Dogecoin",
+                "cryptocurrency",
+                "digital asset",
+                "treasury strategy",
+                "blockchain"
+            ],
+            "insights": [
+                {
+                    "ticker": "BTOG",
+                    "sentiment": "positive",
+                    "sentiment_reasoning": "The company is proactively expanding its digital asset strategy, demonstrating strategic investment in cryptocurrency and showing confidence in Dogecoin's potential for micropayments and decentralized finance"
+                }
+            ]
+        }
+    ],
+    "status": "OK",
+    "request_id": "4760ef1af206e1c4ce57992924161326",
+    "count": 10,
+    "next_url": "https://api.polygon.io/v2/reference/news?cursor=YXA9MjAyNS0wNy0yMVQxMiUzQTMwJTNBMDBaJmFzPTU2YmEyOTg4M2ZjOGI3Y2Y1NzhlNzU1NDQxMDdhMDBjYzlkZThmYTUxN2U4Njk2YjQ4NTk4MTJjODQwZGFlYjkmb3JkZXI9ZGVzY2VuZGluZw"
+}
