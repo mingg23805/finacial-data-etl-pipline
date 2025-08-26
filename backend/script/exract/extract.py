@@ -4,7 +4,8 @@ from configfile.io_utils import write_json_file
 import requests
 import json
 import sys
-import os
+import datetime
+from configfile.file_config import get_today_date
 
 logger = setup_logger(__name__)
 def fetch_data_from_sec(api_key=Config.SEC_API_KEY):
@@ -53,7 +54,7 @@ def extract_to_json():
     logger.info("Fetching market status data from Alpha Vantage...")
     market_status_data = fetch_data_for_market_status_from_alpha_vantage()
     logger.info("Market status data fetched successfully from Alpha Vantage.")
-    
-    
-    write_json_file(company_data, 'backend/data/raw/companies.json')
-    write_json_file(market_status_data, 'backend/data/raw/market_status.json')  
+
+    date = get_today_date()
+    write_json_file(company_data, f'backend/data/raw/companies/companies_{date}.json')
+    write_json_file(market_status_data, f'backend/data/raw/markets/market_status_{date}.json')  

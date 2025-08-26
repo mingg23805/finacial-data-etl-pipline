@@ -1,12 +1,18 @@
 from configfile.logger_utils import setup_logger
-import os
-import sys
 from configfile.io_utils import read_json_file
 import pandas as pd
-import json
+import datetime
 import numpy as np
+from configfile.file_config import get_latest_file_in_directory
 logger = setup_logger(__name__)
+def get_current_date():
+    """
+    Get the current date in YYYY-MM-DD format.
 
+    Returns:
+        str: The current date as a string.
+    """
+    return datetime.datetime.now().strftime('%Y-%m-%d')
 def map_industry_code(company_df, industry_dict):
     """
     Gán mã ngành (code) cho DataFrame dựa trên industry và sector
@@ -36,7 +42,8 @@ def map_industry_code(company_df, industry_dict):
 
     return company_df
 def companies_df():
-    company_df = read_json_file('backend/data/raw/companies.json')
+    file_path= get_latest_file_in_directory('backend/data/raw/companies','.json')
+    company_df = read_json_file(file_path)
     industry_dict=industry_map()
     company_df=map_industry_code(company_df, industry_dict)
     
@@ -46,8 +53,9 @@ def companies_df():
     company_df["sic"] = company_df["sic"].astype("Int64")
     return company_df 
 def markets_df():
-    market_df=read_json_file('backend/data/raw/market_status.json').get("markets",[])
-    market_df=pd.json_normalize(market_df)
+    file_path=get_latest_file_in_directory('backend/data/raw/markets','.json')
+    market_df=read_json_file(file_path).get("markets",[])
+    market_df=pd.json_normalize(market_df)  # type: ignore
     market_df=market_df.drop(columns=["market_type","notes"])
     market_df = market_df.rename(columns={"primary_exchanges": "primary_exchange"})
 
@@ -75,7 +83,7 @@ def industry_map():
     industry_df = read_json_file('backend/data/raw/IndustryCode.json')
     industry_df.columns = industry_df.columns.str.strip().str.lower()
     industry_mapping = dict(zip(
-    zip(industry_df["industry"], industry_df["sector"]),  # tạo tuple (industry, sector)
+    zip(industry_df["industry"], industry_df["sector"]), 
     industry_df["code"]
 ))
     return industry_mapping
