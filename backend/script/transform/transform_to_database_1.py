@@ -36,6 +36,7 @@ def transform_to_database_companies(df):
         "currency": "company_currency",
         "location": "company_location"
     })
+    df=df.dropna(subset=["company_industry_id","company_sic_id"])
     file_path= f"backend/data/processed/transformed_to_db_companies/companies_transformed_to_db_{get_current_date()}.parquet"
     write_to_parquet(df, file_path)
     

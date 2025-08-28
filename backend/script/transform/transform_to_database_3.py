@@ -15,7 +15,7 @@ def transform_to_database_exchange(df):
     
     col=["exchange_id","region_id","primary_exchange"]
     df=df[col]
-    df=df.rename(columns={"primary_exchange": "exchange_name"})
+    df=df.rename(columns={"primary_exchange": "exchange_name","region_id":"exchange_region_id"})
     df=df.drop_duplicates(subset=["exchange_id"])
     file_path= f"backend/data/processed/transformed_to_db_exchanges/exchanges_transformed_to_db_{get_current_date()}.parquet"
     write_to_parquet(df, file_path)

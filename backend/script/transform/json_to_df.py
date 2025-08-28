@@ -51,6 +51,7 @@ def companies_df():
     company_df["exchange_id"] = company_df["exchange"].map(exchange_mapping)
     company_df.replace('', np.nan, inplace=True)
     company_df["sic"] = company_df["sic"].astype("Int64")
+    company_df.dropna()
     return company_df 
 def markets_df():
     file_path=get_latest_file_in_directory('backend/data/raw/markets','.json')

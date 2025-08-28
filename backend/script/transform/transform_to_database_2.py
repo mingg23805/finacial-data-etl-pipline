@@ -35,5 +35,6 @@ def transform_to_database_sic(df):
         "sicIndustry": "sic_industry",
         "sicSector": "sic_sector"
     }, inplace=True)
+    sicindustries_df.dropna(subset=["sic_id"],inplace=True)
     file_path = f"backend/data/processed/transformed_to_db_sic/sic_transformed_to_db_{get_current_date()}.parquet"
     write_to_parquet(sicindustries_df, file_path)
