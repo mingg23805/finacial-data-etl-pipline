@@ -1,6 +1,6 @@
 SELECT 
     c.company_name,
-    c.company_ticket,
+    c.company_ticker,
     c.company_is_delisted,
     c.company_category,
     c.company_currency,

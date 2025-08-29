@@ -21,24 +21,29 @@ def get_latest_file(directory,extension):
         return None
 def load_json_from_file(file_path):
     """
-    Load a JSON file into a DataFrame.
+    Load a JSON file into a Python object (dict or list).
     """
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
+            print(type(data))
         return data
     except FileNotFoundError:
         print(f"File {file_path} not found.")
         return None
-    except ValueError as e:
+    except json.JSONDecodeError as e:
         print(f"Error reading JSON file: {e}")
         return None
 def save_to_parquet(data, parquet_file):
     """
-    Convert a DataFrame to Parquet format.
+    Convert raw data to a DataFrame and save it in Parquet format.
     """
     try:
-        table = pa.Table.from_pandas(pd.DataFrame(data))
+        # Validate data format for DataFrame conversion
+        if not (isinstance(data, list) and all(isinstance(item, dict) for item in data)) and not (isinstance(data, dict) and all(isinstance(v, list) for v in data.values())):
+            raise ValueError("Data must be a list of dicts or a dict of lists for DataFrame conversion.")
+        df=pd.DataFrame(data)   
+        table = pa.Table.from_pandas(df)
         pq.write_table(table, parquet_file)
         print(f"Converted DataFrame to {parquet_file}")
     except Exception as e:
@@ -67,5 +72,5 @@ def convert_ohlcs_to_parquet():
     input_directory = r'elt/data/raw/ohlcs'
     output_directory = r'elt/data/completed/load_api_ohlcs_to_dl'
     load_db_to_dl(input_directory, output_directory)
-convert_news_to_parquet()
+    convert_news_to_parquet()
 convert_ohlcs_to_parquet()
