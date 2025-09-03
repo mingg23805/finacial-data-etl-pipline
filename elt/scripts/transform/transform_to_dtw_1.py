@@ -7,7 +7,6 @@ def process(parquet_file_path):
     spark = SparkSession.builder \
         .appName("Insert Parquet into DuckDB (dim_companies)") \
         .getOrCreate()
-
     # Read Parquet file into PySpark DataFrame
     df_spark = spark.read.parquet(parquet_file_path)
 
@@ -29,7 +28,7 @@ def process(parquet_file_path):
     conn.execute('''
         INSERT INTO dim_companies (
             company_name,
-            company_ticket,
+            company_ticker,
             company_is_delisted,
             company_category,
             company_currency,
@@ -42,7 +41,7 @@ def process(parquet_file_path):
             company_sic_sector
         ) SELECT 
             company_name,
-            company_ticket,
+            company_ticker,
             company_is_delisted,
             company_category,
             company_currency,

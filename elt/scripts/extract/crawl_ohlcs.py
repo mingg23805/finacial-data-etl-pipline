@@ -53,3 +53,4 @@ def save_data_to_from_polygon_json(data=fetch_data_from_polygon()):
     except Exception as e:
         print(f"Error saving data to JSON: {e}")
         raise
+save_data_to_from_polygon_json()

@@ -34,3 +34,4 @@ def load_db_to_dl():
     # Execute the query and save the result to a Parquet file
     query_to_parquet(query, engine, parquet_file_path)
     print(f"Saved data from database to parquet successfully at {parquet_file_path}")
+load_db_to_dl()

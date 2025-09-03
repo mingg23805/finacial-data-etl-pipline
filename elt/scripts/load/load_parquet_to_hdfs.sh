@@ -1,68 +1,49 @@
 #!/bin/bash
+set -e
 
-# Array of local directories and corresponding HDFS directories
-
-
-# Variable to store the latest file names
 latest_files=""
 
-# Directory paths
-local_directory=D:\finacial data etl pipline\elt\data\completed\load_db_to_dl
-hdfs_directory=C:\hadoop-3.3.6\data\datalake\companies  
-# hdfs_directory="${directories[$local_directory]}"
+# 1. Companies
+local_directory=/opt/airflow/scripts/load/load_db_to_dl
+hdfs_directory=/datalake/companies
 
-# Find the latest Parquet file
-latest_file=$(ls -t "$local_directory"/*.parquet | head -1)
-
-# Check if a file is found
+latest_file=$(ls -t "$local_directory"/*.parquet | head -1 || true)
 if [ -z "$latest_file" ]; then
-    echo "No Parquet file found in the directory $local_directory."
+    echo "No Parquet file found in $local_directory"
 else
-    # Upload the file to HDFS
-    hdfs dfs -put "$latest_file" "$hdfs_directory"
-
-    # Append the file name and HDFS directory to the variable
-    latest_files="$latest_files$hdfs_directory/$(basename $latest_file)\n"
+    echo "Uploading $latest_file to HDFS $hdfs_directory ..."
+    hdfs dfs -mkdir -p "$hdfs_directory"
+    hdfs dfs -put -f "$latest_file" "$hdfs_directory"
+    latest_files="${latest_files}${hdfs_directory}/$(basename "$latest_file")\n"
 fi
 
-# Loop through the pairs of local and HDFS directories
-# for local_directory in "${!directories[@]}"; do
-local_directory=D:\finacial data etl pipline\elt\data\completed\load_api_ohlcs_to_dl
-hdfs_directory=C:\hadoop-3.3.6\data\datalake\ohlcs
-# hdfs_directory="${directories[$local_directory]}"
+# 2. OHLCS
+local_directory=/opt/airflow/scripts/load/load_api_ohlcs_to_dl
+hdfs_directory=/datalake/ohlcs
 
-# Find the latest Parquet file
-latest_file=$(ls -t "$local_directory"/*.parquet | head -1)
-
-# Check if a file is found
+latest_file=$(ls -t "$local_directory"/*.parquet | head -1 || true)
 if [ -z "$latest_file" ]; then
-    echo "No Parquet file found in the directory $local_directory."
+    echo "No Parquet file found in $local_directory"
 else
-    # Upload the file to HDFS
-    hdfs dfs -put "$latest_file" "$hdfs_directory"
-
-    # Append the file name and HDFS directory to the variable
-    latest_files="$latest_files$hdfs_directory/$(basename $latest_file)\n"
-fi
-# done
-
-local_directory=D:\finacial data etl pipline\elt\data\completed\load_api_news_to_dl
-hdfs_directory=C:\hadoop-3.3.6\data\datalake\news
-# hdfs_directory="${directories[$local_directory]}"
-
-# Find the latest Parquet file
-latest_file=$(ls -t "$local_directory"/*.parquet | head -1)
-
-# Check if a file is found
-if [ -z "$latest_file" ]; then
-    echo "No Parquet file found in the directory $local_directory."
-else
-    # Upload the file to HDFS
-    hdfs dfs -put "$latest_file" "$hdfs_directory"
-
-    # Append the file name and HDFS directory to the variable
-    latest_files="$latest_files$hdfs_directory/$(basename $latest_file)\n"
+    echo "Uploading $latest_file to HDFS $hdfs_directory ..."
+    hdfs dfs -mkdir -p "$hdfs_directory"
+    hdfs dfs -put -f "$latest_file" "$hdfs_directory"
+    latest_files="${latest_files}${hdfs_directory}/$(basename "$latest_file")\n"
 fi
 
-# Print the latest file names (for Airflow XCom)
+# 3. News
+local_directory=/opt/airflow/scripts/load/load_api_news_to_dl
+hdfs_directory=/datalake/news
+
+latest_file=$(ls -t "$local_directory"/*.parquet | head -1 || true)
+if [ -z "$latest_file" ]; then
+    echo "No Parquet file found in $local_directory"
+else
+    echo "Uploading $latest_file to HDFS $hdfs_directory ..."
+    hdfs dfs -mkdir -p "$hdfs_directory"
+    hdfs dfs -put -f "$latest_file" "$hdfs_directory"
+    latest_files="${latest_files}${hdfs_directory}/$(basename "$latest_file")\n"
+fi
+
+# Xuất ra danh sách file đã upload (cho Airflow XCom nếu cần)
 echo -e "$latest_files"

@@ -2,9 +2,7 @@ import requests
 import json
 import datetime
 from configfile.config import Config
-from configfile.logger_utils import setup_logger
 
-logger = setup_logger(__name__)
 def get_data_by_time_range(time_zone):
     """Get data based on the current time zone range."""
     yesterday = (datetime.date.today() - datetime.timedelta(days=1))
@@ -40,10 +38,10 @@ def fetch_data_from_alpha(api_key=Config.ALPHA_VANTAGE_API_KEY):
             data = response.json()["feed"]
             json_object+=data
         except requests.exceptions.HTTPError as http_err:
-            logger.error(f"HTTP error occurred: {http_err}")
+            print(f"HTTP error occurred: {http_err}")
             raise
         except Exception as err:
-            logger.error(f"An error occurred: {err}")
+            print(f"An error occurred: {err}")
             raise
     return json_object
 def get_current_date():
@@ -66,7 +64,8 @@ def save_data_to_from_alpha_json(data=fetch_data_from_alpha()):
     try:
         with open(file_path, 'w') as json_file:
             json.dump(data, json_file, indent=4)
-            logger.info(f"Data saved to file {file_path}")
+            print(f"Data saved to file {file_path}")
     except Exception as e:
-        logger.error(f"Error saving data to JSON: {e}")
+        print(f"Error saving data to JSON: {e}")
         raise
+save_data_to_from_alpha_json()
