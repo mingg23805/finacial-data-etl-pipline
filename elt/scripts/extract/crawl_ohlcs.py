@@ -45,7 +45,7 @@ def save_data_to_from_polygon_json(data=fetch_data_from_polygon()):
     Parameters:
         data (dict): The data to save.
     """
-    file_path = "elt/data/raw/ohlcs/" + f"ohlcs_{get_current_date()}.json"
+    file_path = "opt/airflow/data/raw/ohlcs/" + f"ohlcs_{get_current_date()}.json"
     try:
         with open(file_path, 'w') as json_file:
             json.dump(data, json_file, indent=4)

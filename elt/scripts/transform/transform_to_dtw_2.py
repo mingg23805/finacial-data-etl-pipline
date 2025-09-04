@@ -39,7 +39,7 @@ def process(parquet_file_path):
     print(f"Yesterday's date: {yesterday}")
     
     # Connect to DuckDB
-    database_path = '/home/anhcu/Project/Stock_project/datawarehouse.duckdb'
+    database_path = '/opt/airflow/datawarehouse.duckdb'
     conn = duckdb.connect(database=database_path)
     
     # Insert new time data into dim_time if it does not exist
@@ -63,16 +63,16 @@ def process(parquet_file_path):
     
     # Get corresponding company_id from dim_companies
     id_company_df = conn.execute(f'''
-        SELECT company_id, company_ticket FROM dim_companies
+        SELECT company_id, company_ticker FROM dim_companies
     ''').fetchdf()
     print(id_company_df)
     
-    # Create a new DataFrame containing company_id and company_ticket from dim_companies
-    companies_df = id_company_df.drop_duplicates(subset=['company_ticket'], keep='last')
+    # Create a new DataFrame containing company_id and company_ticker from dim_companies
+    companies_df = id_company_df.drop_duplicates(subset=['company_ticker'], keep='last')
     print(companies_df)
     
     # Join companies_df to df_pandas to get corresponding company_id
-    df_pandas = df_pandas.merge(companies_df, on='company_ticket', how='left')
+    df_pandas = df_pandas.merge(companies_df, on='company_ticker', how='left')
     df_pandas = df_pandas[df_pandas['company_id'].notnull()]
     print(df_pandas)
     

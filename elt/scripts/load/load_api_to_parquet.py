@@ -65,12 +65,12 @@ def load_db_to_dl(input_directory, output_directory):
         save_to_parquet(data,output_filepath)
         print(f"Saved Parquet file: {output_filepath}")
 def convert_news_to_parquet():
-    input_directory = r'elt/data/raw/news'
-    output_directory = r'elt/data/completed/load_api_news_to_dl'
+    input_directory = r'opt/airflow/data/raw/news'
+    output_directory = r'opt/airflow/data/completed/load_api_news_to_dl'
     load_db_to_dl(input_directory, output_directory)
 def convert_ohlcs_to_parquet():
-    input_directory = r'elt/data/raw/ohlcs'
-    output_directory = r'elt/data/completed/load_api_ohlcs_to_dl'
+    input_directory = r'opt/airflow/data/raw/ohlcs'
+    output_directory = r'opt/airflow/data/completed/load_api_ohlcs_to_dl'
     load_db_to_dl(input_directory, output_directory)
     convert_news_to_parquet()
 convert_ohlcs_to_parquet()

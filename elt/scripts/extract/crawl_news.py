@@ -60,7 +60,7 @@ def save_data_to_from_alpha_json(data=fetch_data_from_alpha()):
         data (dict): The data to save.
         file_path (str): The path to the JSON file.
     """
-    file_path = "elt/data/raw/news/" + f"news_{get_current_date()}.json"
+    file_path = "opt/airflow/data/raw/news/" + f"news_{get_current_date()}.json"
     try:
         with open(file_path, 'w') as json_file:
             json.dump(data, json_file, indent=4)
